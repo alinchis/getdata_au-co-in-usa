@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Engel Machinery Inc.",
+  "image": "",
+  "telephone": "717-764-6818",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3740 Board Road",
+    "addressLocality": "York",
+    "addressRegion": "PA",
+    "postalCode": "17406",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.0341641",
+    "longitude": "-76.7403802"
+  },
+  "description": "Design and manufacture of injection molding machines and automation systems for the plastics processing industry worldwide.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4193/engel-machinery-inc"
+}

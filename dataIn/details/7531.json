@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "CME Plastics Inc.",
+  "image": "",
+  "telephone": "517-456-7722",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3820 East Michigan Ave.",
+    "addressLocality": "Clinton",
+    "addressRegion": "MI",
+    "postalCode": "49236",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.0786040",
+    "longitude": "-83.9595949"
+  },
+  "description": "CME plastics Inc. produces and engineers plastic molds for the corrugated pipe industry. We also build are own style of corrugators as well as rebuild other brands. CME Plastics and produce molds up to 625mm and all the way down to 3mm Diameter.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/7531/cme-plastics-inc"
+}

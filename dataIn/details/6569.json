@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Von Schropp",
+  "image": "",
+  "telephone": "212-633-2828",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "244 Fifth Avenue, Suite 2211",
+    "addressLocality": "New York",
+    "addressRegion": "NY",
+    "postalCode": "10001",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.7446298",
+    "longitude": "-73.987667"
+  },
+  "description": "...a New York graphic design and branding agency, a.k.a. the Von team or just Von for short.We are an eclectic mix of American and European, incomparable designers, writers, and thinkers with decades of experience in graphic design, web design, and branding. Our work reflects the quality training and aesthetic from study and life abroad and stateside. We are not just designers; we are SYSTEM designers.What does that mean? We work closely with our clients and creatively develop a brand and marketing system that functions as a reliable foundation for ongoing marketing and promotion.We help our clients identify and articulate what makes them unique and how they solve problems through their services and products.We develop the bulk of the creative work ahead of time, then edit and polish based on your feedback and in real time. You walk away with a final product within days, not months.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_6569_39115.png",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/6569/von-schropp"
+}

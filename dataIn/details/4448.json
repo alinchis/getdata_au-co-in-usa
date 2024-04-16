@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Peter Meier, Inc. (PMI)",
+  "image": "",
+  "telephone": "336-996-7774",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1255 South Park Drive",
+    "addressLocality": "Kernersville",
+    "addressRegion": "NC",
+    "postalCode": "27284",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "36.1034350",
+    "longitude": "-80.0665316"
+  },
+  "description": "At PMI, we are captivated by European design. Every day, we challenge ourselves to curate specialized products that translate to the American cabinet and manufacturing process. We meticulously craft, engineer, and design practical solutions that enhance the functionality of hardware and accessories. For more than 30 years, we have worked tirelessly to find solutions for the furniture, kitchen & bath, closet, hospitality and office industries.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_81_4448.jpg",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4448/peter-meier-inc-pmi"
+}

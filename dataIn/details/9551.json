@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Half Moon Bay Distillery",
+  "image": "",
+  "telephone": "650-283-4721",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "103 Harvard Avenue #4",
+    "addressLocality": "Half Moon Bay",
+    "addressRegion": "CA",
+    "postalCode": "94019",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "37.5032581",
+    "longitude": "-122.4938259"
+  },
+  "description": "Half Moon Bay Distillery is a small craft distillery, located on the coast of the Pacific Ocean in scenic Half Moon Bay, California. We provide locally produced ultra-premium spirits to people who care about where their drinks come from and who made them.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/9551/half-moon-bay-distillery"
+}

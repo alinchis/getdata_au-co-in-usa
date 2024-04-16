@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian American Council, Los Angeles",
+  "image": "",
+  "telephone": "",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "335 N.Adams Street, #202",
+    "addressLocality": "Glendale",
+    "addressRegion": "CA",
+    "postalCode": "91206",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "34.1511240",
+    "longitude": "-118.2423670"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/5761/austrian-american-council-los-angeles"
+}

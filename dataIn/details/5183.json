@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Axess America LLC",
+  "image": "",
+  "telephone": "435-333-5700",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6443 Business Park Loop Road Suite A",
+    "addressLocality": "Park City",
+    "addressRegion": "UT",
+    "postalCode": "84098",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.7435030",
+    "longitude": "-111.5468301"
+  },
+  "description": "Axess is an international leading manufacturer of ticketing and access management systems. With our factory in Austria and 21 sales and support subsidiaries, we serve our customers all around the world.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_5183.png",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5183/axess-america-llc"
+}

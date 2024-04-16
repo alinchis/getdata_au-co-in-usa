@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian American Society of Oregon",
+  "image": "",
+  "telephone": "503-246-2383",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6215 SW 41st. Avenue",
+    "addressLocality": "Portland",
+    "addressRegion": "OR",
+    "postalCode": "97221",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "45.4787220",
+    "longitude": "-122.7202880"
+  },
+  "description": "The Austrian-American Society of Oregon was established on September 17th 1986. Our purpose is to foster Austrian customs and culture in the Portland area.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_3688.png",
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3688/austrian-american-society-of-oregon"
+}

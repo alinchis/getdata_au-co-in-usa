@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Fulterer USA, Inc.",
+  "image": "",
+  "telephone": "336-431-4646",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "542 Townsend Ave",
+    "addressLocality": "High Point",
+    "addressRegion": "NC",
+    "postalCode": "27263",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "35.9373760",
+    "longitude": "-79.9699580"
+  },
+  "description": "Drawer slide systems for professional applications. For over 60 years Fulterer has been a world leader in drawer slide technology. We combine design innovation, the latest technology, and fine craftsmanship to produce the highest-quality drawer slides available",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4235/fulterer-usa-inc"
+}

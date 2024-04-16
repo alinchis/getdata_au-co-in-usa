@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Schenker & CO AG/Schenker Inc.",
+  "image": "",
+  "telephone": "516-377-3000",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "150 Albany Avenue",
+    "addressLocality": "Freeport",
+    "addressRegion": "NY",
+    "postalCode": "11520",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.6503472",
+    "longitude": "-73.5685873"
+  },
+  "description": "The Schenker GroupAs a company specializing in land transport on road and rail within Europe, our closely woven network of regularly scheduled routes connects the principal economic regions in over thirty European countries. We are equally qualified in providing solutions for air and sea freight and all the associated logistics services on a global scale. Our integrated logistics centers located at the hubs of the global flow of goods, create an effective link between all carriers allowing us to offer a broad range of added-value services.Our experts provide complete solutions tailor-made for the requirements of the industry today and tomorrow. International teams of specialists integrate the Group's individual service modules to create complex added-value chains that ensure a reliable flow of materials and information - in both the old and the new economies.Schenker provides its customers with all the main services from a single source - a business principle that has proved its worth ever since the company was founded by Gottfried Schenker in Vienna almost 130 years ago. Schenker is a part of DB Logistics, the Transportation and Logistics Division of Deutsche Bahn AG. A member of the DB Logistics of companies, Schenker's worldwide headquarters are located in Essen, Germany. The company comprises three operating divisions which jointly provide seamless solutions.Schenker in the United StatesSchenker has operated in the United States since 1947. We utilize the collective resources, expertise, and buying power of our worldwide network to the benefit of our customers. Our staff of more than 2,600 specialists provide expertise in all phases of international transportation and logistics.Our corporate offices are located in Freeport, NY. All locations in the United States provide a full scope of services which range from traditional air and ocean freight to specialized projects and logistics services.Each office in the United States is ISO 9001:2000 certified. Our quality assurance policy and manual state, Schenker, Inc. will understand who its customers are, what those customers require and meet those requirements on time, with accuracy.As echoed throughout our mission statement, Schenker strongly believes in integrating the needs of our partners into our needs. By understanding our partners' requirements, developing trust based upon demonstrated performance, and providing the highest level of integrated logistics services available, we assist our partners in achieving their goals.Streamline your logistics requirements today!",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_81_4523.jpg",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4523/schenker-co-agschenker-inc"
+}

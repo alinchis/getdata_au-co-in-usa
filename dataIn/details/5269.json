@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Xenon Light Inc.",
+  "image": "",
+  "telephone": "212-343-8100",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "394 Broadway",
+    "addressLocality": "New York",
+    "addressRegion": "NY",
+    "postalCode": "10013",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.7182850",
+    "longitude": "-74.0022810"
+  },
+  "description": "Lightning without limits. It all begins with a passion for light. For 30 years, XAL has been working with lighting designers, architects, and planners to develop custom luminaires of the highest technical standard, which impress with their style and aesthetics.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5269/xenon-light-inc"
+}

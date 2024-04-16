@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Georgia Salzburger Society",
+  "image": "",
+  "telephone": "912-754-7001",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2980 Ebenezer Road",
+    "addressLocality": "Rincon",
+    "addressRegion": "GA",
+    "postalCode": "31326",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "32.3755838",
+    "longitude": "-81.1813764"
+  },
+  "description": "A site for descendants of the early Salzburger and German settlers of Ebenezer to visit for historical information.",
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3753/georgia-salzburger-society"
+}

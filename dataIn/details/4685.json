@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Zimmer Machinery",
+  "image": "",
+  "telephone": "864-463-4352",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO Box 5561",
+    "addressLocality": "Spartanburg",
+    "addressRegion": "SC",
+    "postalCode": "29304",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "34.9497000",
+    "longitude": "-81.9325000"
+  },
+  "description": "Machinery for the textile printing industry. Flat and rotary screen printing machines, and accessories.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4685/zimmer-machinery"
+}

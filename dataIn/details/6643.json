@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austria Lacrosse",
+  "image": "",
+  "telephone": "",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "",
+    "addressLocality": "Vienna, Austria",
+    "postalCode": "",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "48.2092062",
+    "longitude": "16.3727778"
+  },
+  "description": "Lacrosse und Intercrosse in Österreich.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_6643.png",
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/6643/austria-lacrosse"
+}

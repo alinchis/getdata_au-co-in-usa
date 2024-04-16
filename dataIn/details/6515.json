@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "SWARCO Raiders Tirol c/o The Oakland Raiders",
+  "image": "",
+  "telephone": "",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1220 Harbor Bay Parkway",
+    "addressLocality": "Alameda",
+    "addressRegion": "CA",
+    "postalCode": "94502",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "37.7257530",
+    "longitude": "-122.2338440"
+  },
+  "description": "History of the SWARCO RaidersThe SWARCO Raiders Tirol is an Austrian-American football team from Innsbruck. As the reigning Eurobowl XXIII champion they are the best team in Europe. The Tyroleans also won the Eurobowl – Europe's Champions League of American football – in 2008. They also won the Austrian Bowl in 2006 and 2004 as well as the EFAF Cup in 2004.On the 15th of September 1992, the birthday of the Raiders, a group of “greenhorns” met for the first time. After months of preparations they founded an American football team. In 1993 they played as the Papa Joe's Raiders West in the third division. The team did not experience a single loss. In the same year, the Raiders were named “Newcomer Team of the Year 1993.” With this success, the Raiders were given the opportunity to ascend into the second division. Through the ascension into the First Division and the incredible efforts of the previous year, the Raiders were now playing in the highest Football League in Austria. Using more import players the Raiders won seven of eight games in the 2000 regular season and also beat the Klagenfurt Cowboys in the playoffs. But they lost 28-34 to the Chrysler Vikings in their very first trip to the Austrian Bowl.In 2004 the Raiders finally won their first titles. They defeated the Chrysler Vikings 28-20 in the Austrian Bowl. They also won the EFAF Cup, crushing the P.A. Farnham Knights from the United Kingdom 45-0. In 2006 the Swarco Holding Wattens became the new main sponsor for the team, which changed its name to SWARCO Raiders Tirol. The Raiders won the national championship that season, beating the Dodge Vikings Vienna 43-19 in Austrian Bowl XXII.On July 5, 2008, the Raiders experienced their biggest success in team history. In an exciting showdown, they defeated the Raiffeisen Vikings 28-24 to win Eurobowl XXII. It was the team's first Eurobowl championship. The team's new marketing teammate followed every step that year as The Oakland Raiders started a cooperation with the SWARCO Raiders in the spring of 2008. This partnership is a great opportunity for the Raiders to make American football in Austria more popular. Both teams feature articles on each others' official websites on a regular basis. In 2009 the web show „Beyond The Field – American Football The Austrian Way“ went online. And SWARCO Raiders coaches were given the opportunity to join the Oakland Raiders' training camp.In 2009 the SWARCO Raiders were able to defend their Eurobowl title. In front of an Austrian record 6,500 fans, they beat Flash de La Courneuve (France) 30-19. Another 2,000 people were following the game online at http://www.raiderstv.at.After they lost in the 2010 Austrian Bowl and fell short of reaching a third straight Eurobowl final the team decided to move into a new direction, hiring German native Shuan Fatah as their new head coach. Fatah led the team to its first double, winning the Eurobowl and the Austrian Bowl in 2011. A combined 18,200 people were watching the two finals live. And almost 80,000 fans worldwide followed the SWARCO Raiders games live online. ",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_81_6515.jpg",
+  "sameAs": [
+    "http://www.facebook.com/SWARCORaidersTirol"
+  ],
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/6515/swarco-raiders-tirol-co-the-oakland-raiders"
+}

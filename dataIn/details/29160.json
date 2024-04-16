@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "MiaMax Jewelry",
+  "image": "https://www.usaustrians.com/assets/dynamic_image/sbs/photo_11285_32357.jpg",
+  "telephone": "",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "",
+    "addressLocality": "",
+    "postalCode": "",
+    "addressCountry": "US"
+  },
+  "description": "Wir freuen uns, euch heute MiaMax Jewelry, ein Family-Business aus Seattle vorstellen zu dürfen!Die Founder, eine Wiener Familie, lebt seit 10 Jahren in Washington. Mama Christina ist eine Personal-Trainerin und mit 2 Kindern den ganzen Tag im Einsatz.Sie hat Jewelry gesucht, die hochwertig aber erschwinglich ist und beim Tragen zu Hause, bei Aktivitäten mit den Kids, im Gym, oder Outdoors bei Hikes gut aussieht und nicht stört. Da Christina nichts für sie Passendes gefunden hat, hat die unternehmerische Familie kurzerhand an einer eigenen Schmuckkollektion gearbeitet und Anfang November gelauncht! Please meet: MiaMax Jewelry, simple, chic und meaningful Jewelry fuer aktive Frauen. Am besten ihr schaut selbst in den Online Store rein (www.miamaxjewelry.com) und macht euch ein Bild! Für alle USAustrians gibt es exklusiv 20% OFF (Code: FRIENDS20) + free US shipping fuer alle Order über $50.",
+  "sameAs": [
+    "https://www.facebook.com/miamaxjewelry",
+    "https://www.instagram.com/miamaxjewelry"
+  ],
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/29160/miamax-jewelry"
+}

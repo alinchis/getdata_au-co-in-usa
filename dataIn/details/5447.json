@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "American Friends of Austria",
+  "image": "",
+  "telephone": "",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "22 Park Lane Unit 417",
+    "addressLocality": "Park Ridge",
+    "addressRegion": "IL",
+    "postalCode": "60068",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.0134144",
+    "longitude": "-87.8605894"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/5447/american-friends-of-austria"
+}

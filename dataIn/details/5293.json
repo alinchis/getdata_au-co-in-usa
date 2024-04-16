@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Plansee USA LLC",
+  "image": "",
+  "telephone": "508-553-3800",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "115 Constitution Blvd.",
+    "addressLocality": "Franklin",
+    "addressRegion": "MA",
+    "postalCode": "02038",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.0540090",
+    "longitude": "-71.4005260"
+  },
+  "description": "Welcome to PLANSEE USA LLC (Formerly known as Schwarzkopf Technologies). PLANSEE is the world's leading manufacturer of products made of Molybdenum.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5293/plansee-usa-llc"
+}

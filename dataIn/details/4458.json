@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Plasser American Corporation",
+  "image": "",
+  "telephone": "757-543-3526",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2001 Myers Road",
+    "addressLocality": "Chesapeake",
+    "addressRegion": "VA",
+    "postalCode": "23324-0464",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "36.8064830",
+    "longitude": "-76.2653900"
+  },
+  "description": "Plasser American Corporation is a world-class manufacturer of Railway Track Maintenance Equipment, and is actively engaged in all sectors of research, design, production, marketing and customer service to provide Plasser know-how and standard of quality for our customers.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4458/plasser-american-corporation"
+}

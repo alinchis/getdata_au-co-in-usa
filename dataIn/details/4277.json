@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Head USA Inc",
+  "image": "",
+  "telephone": "203-855-8666",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 Selleck Street",
+    "addressLocality": "Norwalk",
+    "addressRegion": "CT",
+    "postalCode": "06855",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.1064690",
+    "longitude": "-73.4083760"
+  },
+  "description": "The online home of HEAD. Find the latest information about HEAD products, news and upcoming events. Ski, Snowboarding, Protection, Tennis, Squash, Racquetball, Badminton, Footwear.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4277/head-usa-inc"
+}

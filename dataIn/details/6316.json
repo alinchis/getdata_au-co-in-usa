@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "SkyViewTek",
+  "image": "",
+  "telephone": "610-590-5006",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5 Great Valley Parkway",
+    "addressLocality": "Malvern",
+    "addressRegion": "PA",
+    "postalCode": "19355",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "39.9980978",
+    "longitude": "-75.7633127"
+  },
+  "description": "SkyViewTek, a computer and IT consulting firm, provides expert advice and solutions in computer network design and setup and Managed IT services for businesses with 10 to 100 employees in the Greater Philadelphia area. We implement IT best practices to minimize cyber security risks and specialize in ensuring your business technology and computer systems are secure and compliant with third party organizations, such as HIPAA and PCI. We provide Microsoft and Apple computer and IT services.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_6316.png",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/6316/skyviewtek"
+}

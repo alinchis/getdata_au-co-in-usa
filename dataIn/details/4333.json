@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Knapp Logistics Automation, Inc.",
+  "image": "",
+  "telephone": "678-388-2880",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2124 Barrett Park Drive",
+    "addressLocality": "Kennesaw",
+    "addressRegion": "GA",
+    "postalCode": "30144",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "34.0073040",
+    "longitude": "-84.5971450"
+  },
+  "description": "KNAPP bringt neueste Technologie in die Lagerlogistik. Mit unseren Kunden in aller Welt entwickeln wir maßgeschneiderte Gesamtsysteme.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4333/knapp-logistics-automation-inc"
+}

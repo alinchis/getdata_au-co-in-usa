@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Glock, Inc.",
+  "image": "",
+  "telephone": "770-432-1202",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6000 Highlands Parkway",
+    "addressLocality": "Smyrna",
+    "addressRegion": "GA",
+    "postalCode": "30082",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "33.8349756",
+    "longitude": "-84.5174555"
+  },
+  "description": "Each model of the GLOCK pistol family offers the same characteristics and advantages - the same handling and maintenance.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4255/glock-inc"
+}

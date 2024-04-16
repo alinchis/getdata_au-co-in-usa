@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian American Council, Indiana",
+  "image": "",
+  "telephone": "219-272-4909",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "17635 Juday Lake Drive",
+    "addressLocality": "South Bend",
+    "addressRegion": "IN",
+    "postalCode": "46635",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.7054694",
+    "longitude": "-86.2088060"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/5779/austrian-american-council-indiana"
+}

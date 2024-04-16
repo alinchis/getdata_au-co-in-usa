@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Haderspock & Associates",
+  "image": "",
+  "telephone": "9547297664",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2001 Coral Heights Blvd",
+    "addressLocality": "Fort Lauderdale",
+    "postalCode": "33308",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "26.177118",
+    "longitude": "-80.120715"
+  },
+  "description": "Engineering Consultant in Fort Lauderdale",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/9642/haderspock-associates"
+}

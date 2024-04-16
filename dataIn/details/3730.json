@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Burgenland Bunch",
+  "image": "",
+  "telephone": "717-643-1315",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "205 Jopa Rd",
+    "addressLocality": "Greencastle",
+    "addressRegion": "PA",
+    "postalCode": "17225",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "39.7845844",
+    "longitude": "-77.7199674"
+  },
+  "description": "Genealogists researching the multi-ethnic heritage of the Burgenland of Austria and adjoining areas of former West Hungary",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_81_3730.jpg",
+  "sameAs": [
+    "http://www.facebook.com/#!/group.php?gid=36029799990"
+  ],
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3730/burgenland-bunch"
+}

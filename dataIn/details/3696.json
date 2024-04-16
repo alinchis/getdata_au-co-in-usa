@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian American Council, Washington",
+  "image": "",
+  "telephone": "425-643-4792",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15628 SE 43rd Street",
+    "addressLocality": "Bellevue",
+    "addressRegion": "WA",
+    "postalCode": "98006",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.5690970",
+    "longitude": "-122.1309520"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3696/austrian-american-council-washington"
+}

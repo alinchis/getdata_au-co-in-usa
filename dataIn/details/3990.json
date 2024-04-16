@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Adcon International Inc.",
+  "image": "",
+  "telephone": "951-652-6811",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3255 West Stetson Ave.",
+    "addressLocality": "Hemet",
+    "addressRegion": "CA",
+    "postalCode": "92545",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "38.5624508",
+    "longitude": "-121.7692362"
+  },
+  "description": "ADCON Telemetry focuses on telemetry solutions, based on its own ultra low-power radio technology and GSM/GPRS/UMTS modems, both being integrated into our own range of loggers",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_3990.png",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/3990/adcon-international-inc"
+}

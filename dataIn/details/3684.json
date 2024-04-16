@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian American Council, North & South Dakota Chapter",
+  "image": "",
+  "telephone": "605-677-5625",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "The University of South Dakota",
+    "addressLocality": "Vermillion",
+    "addressRegion": "SD",
+    "postalCode": "57069",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.7860350",
+    "longitude": "-96.9253400"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3684/austrian-american-council-north-south-dakota-chapter"
+}

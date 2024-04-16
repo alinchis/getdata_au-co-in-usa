@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Swarovski North America Limited",
+  "image": "",
+  "telephone": "401-463-6400",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 Kenney Drive",
+    "addressLocality": "Cranston",
+    "addressRegion": "RI",
+    "postalCode": "02920",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.7437108",
+    "longitude": "-71.4563193"
+  },
+  "description": "Welcome - Swarovski Crystal - the original. See the world through crystal eyes and experience the fascinating world of Swarovski crystal",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4585/swarovski-north-america-limited"
+}

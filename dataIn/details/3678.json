@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian American Council, Maine",
+  "image": "",
+  "telephone": "207-775-6577",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "57 Coyle Street",
+    "addressLocality": "Portland",
+    "addressRegion": "ME",
+    "postalCode": "04101",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "43.6695090",
+    "longitude": "-70.2799579"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3678/austrian-american-council-maine"
+}

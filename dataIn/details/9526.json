@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Oliver Weber USA",
+  "image": "",
+  "telephone": "410-978-5282",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1519 Norman Avenue",
+    "addressLocality": "Lutherville",
+    "addressRegion": "MD",
+    "postalCode": "21093",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "39.421736",
+    "longitude": "-76.618936"
+  },
+  "description": "Elegant jewelry and accessories",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/9526/oliver-weber-usa"
+}

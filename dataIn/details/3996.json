@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Agrana Fruit US, Inc.",
+  "image": "",
+  "telephone": "937-693-3821-81102",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "16197 N, County Road, 25 A",
+    "addressLocality": "Anna",
+    "addressRegion": "OH",
+    "postalCode": "45302",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.2854928",
+    "longitude": "-81.6340639"
+  },
+  "description": "AGRANA is committed to the development and supply of products which contribute to health nutrition, directing its resources not only to the dairy market but also the bakery, ice cream, confectionary, frozen desserts, fruit beverage and food service markets.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_3996.png",
+  "sameAs": [
+    "https://www.facebook.com/agrana.us"
+  ],
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/3996/agrana-fruit-us-inc"
+}

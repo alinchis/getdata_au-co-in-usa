@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "MAGNA STEYR Engineering Center Detroit",
+  "image": "",
+  "telephone": "248-524-0028",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1965 Research Drive, Suite 100",
+    "addressLocality": "Troy",
+    "addressRegion": "MI",
+    "postalCode": "48083",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.5520260",
+    "longitude": "-83.1191151"
+  },
+  "description": "We are a leading global automotive supplier with 321 manufacturing operations and 102 product development, engineering and sales centres in 29 countries. We have over 159,000 employees focused on delivering superior value to our customers through innovative products and processes, and world class manufacturing. We have complete vehicle engineering and contract manufacturing expertise, as well as product capabilities which include body, chassis, exterior, seating, powertrain, active driver assistance, vision, closure and roof systems and have electronic and software capabilities across many of these areas. Our common shares trade on the Toronto Stock Exchange (MG) and the New York Stock Exchange (MGA). For further information about Magna, visit our website at www.magna.com.",
+  "sameAs": [
+    "https://www.facebook.com/MagnaInternational"
+  ],
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4574/magna-steyr-engineering-center-detroit"
+}

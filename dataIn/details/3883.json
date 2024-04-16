@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Center for Austrian Studies",
+  "image": "",
+  "telephone": "612-624-9811",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "314 Social Science Building",
+    "addressLocality": "Minnesota",
+    "addressRegion": "MN",
+    "postalCode": "55455",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "44.9714677",
+    "longitude": "-93.2429234"
+  },
+  "description": "Center for Austrian Studies. The Western Hemisphere's oldest and best-known research center investigating the past, present, and future of Central Europe with a specific focus on Austria and the successor states of the Habsburg Empire.",
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3883/center-for-austrian-studies"
+}

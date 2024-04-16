@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Kärntner Club Koschat",
+  "image": "",
+  "telephone": "847-498-3350",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6601 N. Monticello",
+    "addressLocality": "Lincolnwood",
+    "addressRegion": "IL",
+    "postalCode": "60645",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.0196820",
+    "longitude": "-87.7534030"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3768/kärntner-club-koschat"
+}

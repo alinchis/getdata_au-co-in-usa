@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "CableRunner North America LLC",
+  "image": "",
+  "telephone": "703 960 4775",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "543 NW 77 Street, Suite 220",
+    "addressLocality": "Boca Raton",
+    "addressRegion": "FL",
+    "postalCode": "33487",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "26.4181860",
+    "longitude": "-80.0925920"
+  },
+  "description": "Fiber Optic Networks. The CableRunner technology is proven and internationally certified. With the CableRunner technology, fiber optic networks have been built in major cities worldwide.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4110/cablerunner-north-america-llc"
+}

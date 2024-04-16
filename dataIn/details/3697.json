@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian American Council/West",
+  "image": "",
+  "telephone": "818-507-5904",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2701 Forrester Drive",
+    "addressLocality": "Los Angeles",
+    "addressRegion": "CA",
+    "postalCode": "90064",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "34.0439920",
+    "longitude": "-118.4046630"
+  },
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_3697.jpg",
+  "sameAs": [
+    "https://www.facebook.com/Austrian-American-Council-West-417490161631215"
+  ],
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3697/austrian-american-councilwest"
+}

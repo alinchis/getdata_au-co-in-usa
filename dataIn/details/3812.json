@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian Mission to the United Nations",
+  "image": "",
+  "telephone": "917-542-8400",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "600 Third Avenue, 31st Floor",
+    "addressLocality": "New York",
+    "addressRegion": "NY",
+    "postalCode": "10016",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.7493064",
+    "longitude": "-73.975862"
+  },
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_3812.jpg",
+  "sameAs": [
+    "https://twitter.com/AustriaUN"
+  ],
+  "url": "https://www.usaustrians.com/austrian-companies-in-usa/3812/austrian-mission-to-the-united-nations"
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "EDG Advertising Agency",
+  "image": "https://www.usaustrians.com/assets/dynamic_image/sbs/photo_1393_14125.jpg",
+  "telephone": "941-925-4921",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "430 N Cattlemen Rd 1-101",
+    "addressLocality": "Sarasota",
+    "addressRegion": "FL",
+    "postalCode": "34232",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "27.250869",
+    "longitude": "-82.5186049"
+  },
+  "description": "No matter if you are starting a new company or want to reposition your existing one in Sarasota - Edelsbacher Design Group can help you with Branding, Print and Web Development. Call us for a free meeting! 941.544.6119With over 26 years of creative experience, our advertising agency combines award winning design with clever concepts.- Marketing Tools like Birthday and Fan Clubs, Online Contests, Coupon and Gift Certificate Systems, ...- Logos & Branding - Ad Campaigns - Brochures and Collateral - Web Sites development and updates - Mobile Web Sites & Apps - Social Media Management - Online Marketing - SEO - Barrier Free Websites For brainstorming call 941 925 4921☆ Birthday and Fan Club - A Customer Appreciation ToolAutomatically generates and sends out offers and birthday gifts to customers who signed up and became members of your Birthday Club.☆ Coupon SystemOffer an unlimited number of coupons to your customers to drive revenue and thank your loyal customers. It is easy to start listing and manage your own coupons, current specials and discounts directly on your website. You can also choose a specified start date and define when the coupon will expire. All expired coupons are automatically removed from display. It also provides statistics so you can see how popular your coupons are. Send your coupon by text to SMS or publish your coupons to Facebook, Twitter or any other social media site. Coupon can be created with an own scan able bar code.☆ Contests and SweepstakesDrive more customers to your website, reward current customers, or expand you database of contacts using online contests and sweepstakes. The contest system provides an easy way to manage online contests without technical expertise. For example it automatically saves entrant's e-mail addresses from sign-in form, requires verification sent to given email address, automatically chooses a random winner.☆ Gift Certificate ProgramIt has a track able unique number reporting system. List of unique numbers can be printed and seen online after login.Gift certificate is immediately printable after check out and confirmed to customer by email notification.Gift certificate can also be sent to a smart phone and redeemed by showing it with a unique track able number at the merchant.☆ Newsletter sign up and Email Collection System",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_1923.jpg",
+  "sameAs": [
+    "http://www.facebook.com/townberries",
+    "http://twitter.com/edgadvertising"
+  ],
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/1923/edg-advertising-agency"
+}

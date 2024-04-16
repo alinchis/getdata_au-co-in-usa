@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Geislinger Corporation",
+  "image": "",
+  "telephone": "269-441-7000",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 Geislinger Drive",
+    "addressLocality": "Battle Creek",
+    "addressRegion": "MI",
+    "postalCode": "49037",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.3387431",
+    "longitude": "-85.2707656"
+  },
+  "description": "Geislinger produces couplings and dampers and we do set standards worldwide, with our products: Gesilco, Flexlink, Flydamp, Carbotorq, Vdamp.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4244/geislinger-corporation"
+}

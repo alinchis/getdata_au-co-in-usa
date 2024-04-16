@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "SkiData, Inc.",
+  "image": "",
+  "telephone": "908-243-0000",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "One Harvard Way, Suite 5",
+    "addressLocality": "Hillsborough",
+    "addressRegion": "NJ",
+    "postalCode": "08844",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.5469857",
+    "longitude": "-74.6113791"
+  },
+  "description": "SKIDATA is an international solution provider specializing in professional access management and ticketing.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4557/skidata-inc"
+}

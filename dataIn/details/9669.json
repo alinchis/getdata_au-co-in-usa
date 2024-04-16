@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Jorgs Cafe Vienna",
+  "image": "",
+  "telephone": "9725095966",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1037 East 15 th Street",
+    "addressLocality": "Plano",
+    "postalCode": "75074",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "33.019898",
+    "longitude": "-96.699555"
+  },
+  "description": "Welcome to Jörg’s Cafe Vienna; a family-owned restaurant serving authentic Austrian and German food in a warm, comfortable, Old World atmosphere. We have a cozy dining room with a bar, a Bier Stuben, and an outdoor Biergarten in Plano Texas.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/9669/jorgs-cafe-vienna"
+}

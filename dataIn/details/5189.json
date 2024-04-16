@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Berndorf Belt Systems USA and Berndorf Belt Technologies, Inc.",
+  "image": "",
+  "telephone": "847 841 3300",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Prairie Parkway",
+    "addressLocality": "Gilberts",
+    "addressRegion": "IL",
+    "postalCode": "60136",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.0731108",
+    "longitude": "-88.3390825"
+  },
+  "description": "Berndorf Band Group’s Steel Belts & Belt Systems are suitable for numerous applications. Learn more about our diverse portfolio and how our products can be part of your production to manufacture high quality products.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_5189.jpg",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5189/berndorf-belt-systems-usa-and-berndorf-belt-technologies-inc"
+}

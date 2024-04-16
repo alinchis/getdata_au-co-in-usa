@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian Club of Washington",
+  "image": "",
+  "telephone": "425-771-6409",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9714 Lindsay Place",
+    "addressLocality": "Admonds",
+    "addressRegion": "WA",
+    "postalCode": "98020",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.827812",
+    "longitude": "-122.366095"
+  },
+  "description": "Is an ethnic social organization consisting of members from all walks of life and nationalities.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_3704.gif",
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3704/austrian-club-of-washington"
+}

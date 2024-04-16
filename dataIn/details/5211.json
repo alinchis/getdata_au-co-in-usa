@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "GE Jenbacher Ltd.",
+  "image": "",
+  "telephone": "832-295-5630",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5244 North Sam Houston Pkwy E.",
+    "addressLocality": "Houston",
+    "addressRegion": "TX",
+    "postalCode": "77032",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "29.9390144",
+    "longitude": "-95.3143610"
+  },
+  "description": "GE Jenbacher is one of the world's leading manufacturers of gas-fueled reciprocating engines, packaged generator sets and cogeneration units for power generation. Our gas engines are known for their high efficiency, low operating cost and exceptionally high reliability. The engines combine a high output density with low exhaust emissions and low-cost construction.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5211/ge-jenbacher-ltd"
+}

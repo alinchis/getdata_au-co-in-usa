@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Dr. Sauer Group",
+  "image": "",
+  "telephone": "703-707-0700",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "560 Herndon Pkw, Ste. 310",
+    "addressLocality": "Herndon",
+    "addressRegion": "VA",
+    "postalCode": "20170",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "38.9553320",
+    "longitude": "-77.3826130"
+  },
+  "description": "The leading tunnel and ground engineering consultancy, delivering practical and sustainable solutions",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4519/dr-sauer-group"
+}

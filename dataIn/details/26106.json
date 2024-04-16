@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian Consulate for Colorado & Wyoming",
+  "image": "",
+  "telephone": "3033964538",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 Filmore 5th floor",
+    "addressLocality": "Denver",
+    "postalCode": "80206",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "39.7185213",
+    "longitude": "-104.9531301"
+  },
+  "sameAs": [
+    "https://www.facebook.com/groups/478365058979189"
+  ],
+  "url": "https://www.usaustrians.com/austrian-companies-in-usa/26106/austrian-consulate-for-colorado-wyoming"
+}

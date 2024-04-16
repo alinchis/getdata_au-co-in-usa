@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian American Society of South Eastern Wisconsin",
+  "image": "",
+  "telephone": "414-453-5131",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "11835 W. Diane Drive",
+    "addressLocality": "Wauwatosa",
+    "addressRegion": "WI",
+    "postalCode": "53226",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "43.0434360",
+    "longitude": "-88.0605530"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3722/austrian-american-society-of-south-eastern-wisconsin"
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Anton Paar USA, Inc.",
+  "image": "",
+  "telephone": "804-550-1051",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10215 Timber Ridge Drive",
+    "addressLocality": "Ashland",
+    "addressRegion": "VA",
+    "postalCode": "23005",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "37.6991500",
+    "longitude": "-77.4533670"
+  },
+  "description": "Anton Paar produces high-end measuring and laboratory instruments for industry and research. It is the world leader in the measurement of density, concentration and CO2 and in the field of rheometry. Anton Paar is owned by the charitable Santner Foundation.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_81_4031.jpg",
+  "sameAs": [
+    "https://www.facebook.com/AntonPaarHQ",
+    "https://twitter.com/AntonPaar"
+  ],
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4031/anton-paar-usa-inc"
+}

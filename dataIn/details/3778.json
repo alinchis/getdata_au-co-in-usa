@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Pro Mozart Society of Greater Toledo",
+  "image": "",
+  "telephone": "248-683-9626",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "14511 Rosemary Street",
+    "addressLocality": "St. Louis",
+    "addressRegion": "MO",
+    "postalCode": "48237",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "38.5557000",
+    "longitude": "-90.3073100"
+  },
+  "description": "Celebrating the Mozart Effect for over 50 years.",
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3778/pro-mozart-society-of-greater-toledo"
+}

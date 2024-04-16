@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Ebner Furnaces, Inc.",
+  "image": "",
+  "telephone": "330-335-1740",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "224 Quadral Dr.",
+    "addressLocality": "Wadsworth",
+    "addressRegion": "OH",
+    "postalCode": "44281",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.0228800",
+    "longitude": "-81.7601128"
+  },
+  "description": "Global specialist in heat treatment furnace facilities.EBNER is a global, family-owned company and market leader in heat treatment facilities for the semi-finished metal products industry. We specialize in the research, development, fabrication, installation, and commissioning of heat treatment facilities for the steel, aluminum, and copper base metal industries",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4180/ebner-furnaces-inc"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian American Council, Michigan Chapter",
+  "image": "",
+  "telephone": "248-693-8422",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "500 Manitou Lane",
+    "addressLocality": "Lake Orion",
+    "addressRegion": "MI",
+    "postalCode": "48362",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.7985260",
+    "longitude": "-83.2539380"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3714/austrian-american-council-michigan-chapter"
+}

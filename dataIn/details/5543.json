@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "New World Travel, Inc.",
+  "image": "",
+  "telephone": "212-754-9100",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1040 Avenue of the Americas",
+    "addressLocality": "New York",
+    "addressRegion": "NY",
+    "postalCode": "10018",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.7529530",
+    "longitude": "-73.9850250"
+  },
+  "description": "New World Travel is a Receptive Tour Operator specializing in travel arrangements in the United States and Canada.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_107_5543.jpg",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5543/new-world-travel-inc"
+}

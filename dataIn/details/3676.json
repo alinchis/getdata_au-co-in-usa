@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian American Council, Iowa Chapter",
+  "image": "",
+  "telephone": "319-277-2083",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1623 Lilac Lane",
+    "addressLocality": "Cedar Falls",
+    "addressRegion": "IA",
+    "postalCode": "50613",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.5076330",
+    "longitude": "-92.4267504"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3676/austrian-american-council-iowa-chapter"
+}

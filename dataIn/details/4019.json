@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "American GFM Corporation",
+  "image": "",
+  "telephone": "757-487-2442",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1200 Cavalier Blvd.",
+    "addressLocality": "Chesapeake",
+    "addressRegion": "VA",
+    "postalCode": "23323",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "36.7810490",
+    "longitude": "-76.3660810"
+  },
+  "description": "AGFM, in VIRGINIA, is a machine tool manufacturer for Crankshaft milling machines and camshaft milling machines.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_4019.gif",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4019/american-gfm-corporation"
+}

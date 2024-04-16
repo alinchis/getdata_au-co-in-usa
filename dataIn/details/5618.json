@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Silhouette Optical Ltd.",
+  "image": "",
+  "telephone": "757-494-7186",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "260 Cannon Street",
+    "addressLocality": "Green Ilsand",
+    "addressRegion": "NY",
+    "postalCode": "12183-1552",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.7436170",
+    "longitude": "-73.6934890"
+  },
+  "description": "Sunglasses, optical eyewear. Silhouette stands for absolute precision, innovation, and attention to detail.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5618/silhouette-optical-ltd"
+}

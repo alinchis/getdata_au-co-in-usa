@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian American Council, Chicago",
+  "image": "",
+  "telephone": "",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "521 Rio Vista",
+    "addressLocality": "Glenview",
+    "addressRegion": "IL",
+    "postalCode": "60025",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.0648000",
+    "longitude": "-87.7931010"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/5771/austrian-american-council-chicago"
+}

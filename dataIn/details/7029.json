@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Walter A. Breiner Jr. LLC.",
+  "image": "",
+  "telephone": "860-309-2900",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3 Hayfield Lane",
+    "addressLocality": "Granby",
+    "addressRegion": "CT",
+    "postalCode": "06035",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9683230",
+    "longitude": "-72.8129510"
+  },
+  "description": "Logistics consultant and project manager.Walter A.Breiner Jr., a native of Vienna, Austria, has extensive experience of over 30 years from freight forwarding and projects through Supply Chain Management and fine mesh distribution analysis, gaining expertise and experience in all aspects of the Transportation and Logistics Industry.He began his career as a 15-year-old youngster with an apprenticeship in 1977 at Panalpina in Vienna, Austria, and upon graduation in 1980 obtained the state-recognized official title of Spediteur = Freight Forwarder. After completing Military service he rejoined Panalpina who transferred him in 1984 to Buchs, Switzerland located in the Rhine Valley.He originally worked in the Export department and was promoted shortly after to manage the customs brokerage field office, based in the Principality of Liechtenstein on the Austrian/Swiss border.In 1993, Walter accepted a Senior Management position at Danzas, (later DHL) in Buchs, where he remained for 7 years becoming, during that time, a Board Member at the Swiss Freight Forwarding Association. In 2001 Panalpina wanted to reinforce their operational know-how in the US by way of using European Management resources hired and trained by Panalpina and offered Walter an opportunity to live and work on the East Coast of the US. Accepting the offer he worked initially for two years as the export manager in the NYC branch, followed by several Branch Manager and VP positions in Pennsylvania, Ohio, and Connecticut.In 2010, Walter opened his own business located in Granby, CT, 20 Minutes north of the BDL Intl. airport.The Walter A.Breiner Jr. LLC is a member of the US/AUSTRIA Chamber of Commerce in New York and of the Metro Hartford Alliance in Connecticut.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/7029/walter-a-breiner-jr-llc"
+}

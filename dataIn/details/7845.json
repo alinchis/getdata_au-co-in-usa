@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "DI Bernhard Stocker, LEED AP",
+  "image": "",
+  "telephone": "347 5318393",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "133 seaman ave 5G",
+    "addressLocality": "new york",
+    "addressRegion": "NY",
+    "postalCode": "10034",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.8687010",
+    "longitude": "-73.9226110"
+  },
+  "description": "As a seasoned Senior Executive, Architect, and Designer with extensive experience in the development, design, project management, and construction of large-scale, mixed-use real estate projects.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/7845/di-bernhard-stocker-leed-ap"
+}

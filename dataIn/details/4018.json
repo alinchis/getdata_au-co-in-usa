@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "American Compressor Company",
+  "image": "",
+  "telephone": "562-944-6188",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10144 Freeman Avenue",
+    "addressLocality": "Santa Fe Springs",
+    "addressRegion": "CA",
+    "postalCode": "90670",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "33.9447800",
+    "longitude": "-118.0579490"
+  },
+  "description": "Distributor for KAESER Compressor sales, parts and service, Southern California.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_4018.jpg",
+  "sameAs": [
+    "https://www.facebook.com/pages/American-Compressor/155405854498094"
+  ],
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4018/american-compressor-company"
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian Association of Hawaii",
+  "image": "",
+  "telephone": "808-734-3163",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2108 Alaeloa Place",
+    "addressLocality": "Honolulu",
+    "addressRegion": "HI",
+    "postalCode": "96821",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "21.2931100",
+    "longitude": "-157.7760620"
+  },
+  "description": "It is the purpose of the Austrian Association of Hawai′i (AAH) to promote the understanding between Austria and Hawai′i. Our membership consists of Austrians abroad and all friends of Austria regardless of their national origin.",
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3701/austrian-association-of-hawaii"
+}

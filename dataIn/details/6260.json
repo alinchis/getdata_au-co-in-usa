@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Oswald Wood Working Machines Inc.",
+  "image": "",
+  "telephone": "719 406 0338",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1065 Timber Drive",
+    "addressLocality": "Walsenburg",
+    "addressRegion": "CO",
+    "postalCode": "81089",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "37.4556171",
+    "longitude": "-104.7152331"
+  },
+  "description": "Technology for forest wood, timber industries, and sawmills.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/6260/oswald-wood-working-machines-inc"
+}

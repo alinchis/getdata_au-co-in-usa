@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "BUSCHARTER dot NET",
+  "image": "",
+  "telephone": "305.219.8219",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "450 N.E. 91st Street",
+    "addressLocality": "Miami",
+    "addressRegion": "FL",
+    "postalCode": "33138",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "25.8585550",
+    "longitude": "-80.1880230"
+  },
+  "description": "We offer Miami and Fort Lauderdale airport, seaport services as well as charter bus rentals. We have been serving the Miami & Fort Lauderdale metropolitan area since August 1994. We take pride in our well maintained fleet of clean, comfortable vans, minibuses, and motorcoaches. Find out for yourself why people throughout the world have put their trust in us for more then ten years. ",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_81_7178.gif",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/7178/buscharter-dot-net"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Haus of Austria",
+  "image": "",
+  "telephone": "760-765-0700",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "P.O. Box 1267",
+    "addressLocality": "Julian",
+    "addressRegion": "CA",
+    "postalCode": "92036",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "32.9222614",
+    "longitude": "-116.3485586"
+  },
+  "url": "https://www.usaustrians.com/austrian-companies-in-usa/5765/haus-of-austria"
+}

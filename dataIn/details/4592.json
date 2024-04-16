@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "T-sign Studios",
+  "image": "",
+  "telephone": "310-928 7807",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4134 Del Rey Avenue",
+    "addressLocality": "Marina Del Rey",
+    "addressRegion": "CA",
+    "postalCode": "90292",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "33.9877657",
+    "longitude": "-118.4444515"
+  },
+  "description": "About T-sign StudiosOur roots are in Austria, where our headquarter is in beautiful Vienna. In 2000 we opened our Los Angeles office and added Warsaw and Miami since. Our team of over 25 members is a selection of specialists in his or her own field and together we are a successful team.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4592/tsign-studios"
+}

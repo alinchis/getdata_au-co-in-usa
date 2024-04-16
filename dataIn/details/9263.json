@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "BMC Classics Inc.",
+  "image": "",
+  "telephone": "386-314-9010",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "120 Sanchez Ave Edgewater",
+    "addressLocality": "New Smyrna Beach",
+    "addressRegion": "FL",
+    "postalCode": "32132",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "29.0372203",
+    "longitude": "-80.9324578"
+  },
+  "description": "We have been restoring Healeys for the past 30 years.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/9263/bmc-classics-inc"
+}

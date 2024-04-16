@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian-American Council, New Jersey - Overseas Neighbors/Graz",
+  "image": "",
+  "telephone": "973-731-1837",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "732 Valley Rd.",
+    "addressLocality": "Montclair",
+    "addressRegion": "NJ",
+    "postalCode": "07043",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.7773610",
+    "longitude": "-74.2819510"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/5783/austrianamerican-council-new-jersey-overseas-neighborsgraz"
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Rosenbauer America",
+  "image": "",
+  "telephone": "605-543-5591",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 Third Street",
+    "addressLocality": "Lyons",
+    "addressRegion": "SD",
+    "postalCode": "57041",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "43.7230750",
+    "longitude": "-96.8664660"
+  },
+  "description": "The ROSENBAUER Groupis a leading supplier of special ARFF and industrial fire-fighting vehicles for fire and disaster protection and is represented in more than 100 countries. ",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4504/rosenbauer-america"
+}

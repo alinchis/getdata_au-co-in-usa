@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian Cultural Roundtable",
+  "image": "",
+  "telephone": "773-721-7165",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7352 South Coles Ave",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60649",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.7618760",
+    "longitude": "-87.5611710"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/5780/austrian-cultural-roundtable"
+}

@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Very Fine Art",
+  "image": "",
+  "telephone": "925 465 6062",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2449 Pine Knoll Drive, #6",
+    "addressLocality": "Walnut Creek",
+    "addressRegion": "CA",
+    "postalCode": "94595",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "37.8745489",
+    "longitude": "-122.0831795"
+  },
+  "description": "San Francisco bay area artist",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_81_6256.gif",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/6256/very-fine-art"
+}

@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Aline Stern Photography",
+  "image": "",
+  "telephone": "312-806-2287",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3827 N. Paulina",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9514540",
+    "longitude": "-87.6710600"
+  },
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_81_7138.jpg",
+  "sameAs": [
+    "https://www.facebook.com/alinesternphotography"
+  ],
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/7138/aline-stern-photography"
+}

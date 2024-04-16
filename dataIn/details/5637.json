@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Herrmann, Esq., Jeffrey M.",
+  "image": "",
+  "telephone": "212-922-9093",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "295 Madison Avenue, Suite 700",
+    "addressLocality": "New York",
+    "addressRegion": "NY",
+    "postalCode": "10017-7758",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.7522173",
+    "longitude": "-73.9797202"
+  },
+  "description": "The law practice of Jeffrey M. Herrmann serves domestic and foreign clients and emphasizes all aspects of international law including Real Property, Trusts and Estates, Commercial Transactions, Taxation, International Trade, Corporate Law and Litigation and Arbitration.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5637/herrmann-esq-jeffrey-m"
+}

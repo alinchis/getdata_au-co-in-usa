@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian American Council, Dallas Chapter",
+  "image": "",
+  "telephone": "214-691-1421",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3524 Bryn Mawr",
+    "addressLocality": "Dallas",
+    "addressRegion": "TX",
+    "postalCode": "75225",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "32.8562720",
+    "longitude": "-96.7910570"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3675/austrian-american-council-dallas-chapter"
+}

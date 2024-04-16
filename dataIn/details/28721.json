@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Ottobock HealthCare, LP",
+  "image": "",
+  "telephone": "(800) 328-4058",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "11501 Alterra Parkway",
+    "addressLocality": "Austin",
+    "addressRegion": "TX",
+    "postalCode": "78758",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "30.400939",
+    "longitude": "-97.719274"
+  },
+  "description": "Ottobock prosthetic solutions are designed to keep users moving wherever they are in their journey. With a wide range of solutions, our goal is to meet your ideal outcome every step of the way.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/28721/ottobock-healthcare-lp"
+}

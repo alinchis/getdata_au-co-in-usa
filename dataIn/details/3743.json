@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Club Schönbrunn",
+  "image": "",
+  "telephone": "504-885-8987",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5800 Virginia Place",
+    "addressLocality": "Metairie",
+    "addressRegion": "LA",
+    "postalCode": "70003",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "30.0272630",
+    "longitude": "-90.2136380"
+  },
+  "description": "Club Schoenbrunn is a social club in Metairie, Lousiana for Austrians and people with interest in Austria. We meet 4 times a year. Please call Elisabeth Huber (president) for more information.",
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3743/club-schönbrunn"
+}

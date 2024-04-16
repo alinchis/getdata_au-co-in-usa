@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Humantronic",
+  "image": "",
+  "telephone": "(239) 368 7767",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1103 Leeland Heights Blvd E",
+    "addressLocality": "Lehigh Acres",
+    "addressRegion": "FL",
+    "postalCode": "33936",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "26.6035180",
+    "longitude": "-81.6144320"
+  },
+  "description": "Medical device engeneering.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5425/humantronic"
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Swarovski Optik North America",
+  "image": "",
+  "telephone": "401-734-1800",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2 Slater Road",
+    "addressLocality": "Cranston",
+    "addressRegion": "RI",
+    "postalCode": "02920",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.7466421",
+    "longitude": "-71.4539907"
+  },
+  "description": "Swarovski Optik products are produced with the best Austrian engineering and high-class workmanship.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4587/swarovski-optik-north-america"
+}

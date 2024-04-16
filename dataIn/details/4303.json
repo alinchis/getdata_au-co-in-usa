@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "ILF Consultants",
+  "image": "",
+  "telephone": "703-383-1280",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3911 Old Lee Highway, Suite 42E",
+    "addressLocality": "Fairfax",
+    "addressRegion": "VA",
+    "postalCode": "22030",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "38.8477257",
+    "longitude": "-77.3012339"
+  },
+  "description": "Praesentiert das Firmenprofil und bietet Informationen ueber die Geschaeftsfelder, jeweils mit einer Referenzliste: Erdoel-, Erdgas-, Wasser- und Umwelttechnik.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4303/ilf-consultants"
+}

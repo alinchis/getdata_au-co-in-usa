@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Schelling America, Inc.",
+  "image": "",
+  "telephone": "919-656-1896",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "P.O.BOX 80367",
+    "addressLocality": "Raleigh",
+    "addressRegion": "NC",
+    "postalCode": "27613",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "35.9141245",
+    "longitude": "-78.7136080"
+  },
+  "description": "Schelling Anlagenbau, stellt seine Produkte vor. Im Servicebereich gibt es ein Schulungsprogramm im pdf-Format und eine online-Ersatzteilebestellung.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4521/schelling-america-inc"
+}

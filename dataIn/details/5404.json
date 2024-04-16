@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Bauer Compressors Inc, Virginia Beach",
+  "image": "",
+  "telephone": "757-339-0440",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2036 Lyndora Road",
+    "addressLocality": "Virginia Beach",
+    "addressRegion": "VA",
+    "postalCode": "23464",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "36.7783930",
+    "longitude": "-76.1536120"
+  },
+  "description": "BAUER Compressors - Air Compressor Manufacturer. Innovative designer and manufacturer of high pressure compressors and purification systems.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_5404.jpg",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5404/bauer-compressors-inc-virginia-beach"
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "KEBA Corporation",
+  "image": "",
+  "telephone": "248.526.0561",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 W. Big Beaver Road",
+    "addressLocality": "Troy",
+    "addressRegion": "MI",
+    "postalCode": "48084",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.5625016",
+    "longitude": "-83.1503421"
+  },
+  "description": "Develops and produces control electronics including robot controls, handheld devices, self-service solutions for banks, lottery systems.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5218/keba-corporation"
+}

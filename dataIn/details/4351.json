@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Law Offices of Kurt A. Wagner, P.C.",
+  "image": "",
+  "telephone": "847-759-9833",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "780 Lee Street, Stuite 102",
+    "addressLocality": "Des Plaines",
+    "addressRegion": "IL",
+    "postalCode": "60016",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.0389310",
+    "longitude": "-87.8900880"
+  },
+  "description": "We are a small law and consultancy firm with a strong international presence and experience in a wide range of international business and personal transactions, including international business acquisitions, U.S. tax compliance and planning, intellectual property licensing and protection, U.S. immigration and visas, and human resources development.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4351/law-offices-of-kurt-a-wagner-pc"
+}

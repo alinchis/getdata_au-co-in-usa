@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Specific-Group USA",
+  "image": "",
+  "telephone": "3056197220",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "20900 NE 30th Ave Suite 846",
+    "addressLocality": "Miami",
+    "addressRegion": "FL",
+    "postalCode": "33160",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "25.9695510",
+    "longitude": "-80.1422014"
+  },
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_81_9053.jpg",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/9053/specificgroup-usa"
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Jolly Austrian Colored Pencils",
+  "image": "",
+  "telephone": "",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "",
+    "addressLocality": "Woodacre",
+    "addressRegion": "CA",
+    "postalCode": "94973",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "38.0127006",
+    "longitude": "-122.645261"
+  },
+  "description": "distributed by Trussart Designs",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_81_9622.jpg",
+  "sameAs": [
+    "https://www.facebook.com/TrussartDesigns"
+  ],
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/9622/jolly-austrian-colored-pencils"
+}

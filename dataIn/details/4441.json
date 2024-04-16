@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Palfinger USA Inc.",
+  "image": "",
+  "telephone": "905-374-3363",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7942 Dorchester Road",
+    "addressLocality": "Niagara Falls",
+    "addressRegion": "ON",
+    "postalCode": "L2E 6V6",
+    "addressCountry": "CA"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "43.1150340",
+    "longitude": "-79.1118210"
+  },
+  "description": "Welcome to PALFINGER crane – specialist for hydraulic lifting, loading, and handling systems – cranes, forklifts, hook loaders, and tail lifts.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4441/palfinger-usa-inc"
+}

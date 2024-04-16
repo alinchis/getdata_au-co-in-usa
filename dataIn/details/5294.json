@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Rauch Fertigungstechnik G.m.b.H.",
+  "image": "",
+  "telephone": "317-753-7798",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "P.O. Box 603",
+    "addressLocality": "Fishers",
+    "addressRegion": "IN",
+    "postalCode": "46038",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "39.9645049",
+    "longitude": "-86.0223611"
+  },
+  "description": "RAUCH 1994 zum Bau des ersten serienmaessigen Magnesium Schmelz- und Dosierofens, welcher zur Entwicklung eines Gesamtsystems für das sichere Handling von festem und fluessigem Magnesium fuehrte.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5294/rauch-fertigungstechnik-gmbh"
+}

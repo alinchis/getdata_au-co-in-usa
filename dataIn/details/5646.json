@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Frimeco North America Corporation",
+  "image": "",
+  "telephone": "248-646-3078",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4136 Telegraph Road",
+    "addressLocality": "Bloomfield Hills",
+    "addressRegion": "MI",
+    "postalCode": "48302-2001",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.5792209",
+    "longitude": "-83.2810765"
+  },
+  "description": "High-quality raw materials for the global friction industry.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5646/frimeco-north-america-corporation"
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Riedel Crystal America",
+  "image": "",
+  "telephone": "732-346-8960",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "95 Mayfield Avenue, PO Box 6623",
+    "addressLocality": "Edison",
+    "addressRegion": "NJ",
+    "postalCode": "08818",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.5068144",
+    "longitude": "-74.3467231"
+  },
+  "description": "Riedel Glas Austria - Make a journey through Riedel´s world of glasses and senses. On riedel.com you will find detailed information about the famous glass.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4492/riedel-crystal-america"
+}

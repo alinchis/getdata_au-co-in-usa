@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Headworks Inc.",
+  "image": "",
+  "telephone": "713-647-6667",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "800 Wilcrest Stuite 340",
+    "addressLocality": "Houston",
+    "addressRegion": "TX",
+    "postalCode": "77042",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "29.7548800",
+    "longitude": "-95.5756810"
+  },
+  "description": "Supplier of water and wastewater screening systems to treatment plants, power plants, water intake structures, and sludge screening facilities worldwide.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4278/headworks-inc"
+}

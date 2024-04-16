@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "B&R Industrial Automation Corporation",
+  "image": "",
+  "telephone": "770-772-0400",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1325 Northmeadow Parkway",
+    "addressLocality": "Roswell",
+    "addressRegion": "GA",
+    "postalCode": "30076",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "34.0603087",
+    "longitude": "-84.3150260"
+  },
+  "description": "B&R's complete integrated solution offers our customers the latest cutting edge technology and competitive advantages to develop next generation machine applications.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_4074.png",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4074/br-industrial-automation-corporation"
+}

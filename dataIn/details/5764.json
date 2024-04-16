@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Friends of Austria",
+  "image": "",
+  "telephone": "",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3865 Irving Street",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA",
+    "postalCode": "94122",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "37.7623700",
+    "longitude": "-122.4993200"
+  },
+  "url": "https://www.usaustrians.com/austrian-companies-in-usa/5764/friends-of-austria"
+}

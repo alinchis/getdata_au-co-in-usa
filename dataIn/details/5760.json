@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian Association of Southern Arizona",
+  "image": "",
+  "telephone": "480-460-4868",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "14234 South 7th Street",
+    "addressLocality": "Phoenix",
+    "addressRegion": "AZ",
+    "postalCode": "85048",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "32.2670660",
+    "longitude": "-110.8940190"
+  },
+  "description": "The Austrian Society of Arizona is an organization of Austrian-Americans. Descendants of Austrians and Friends of Austria, who enjoy sharing the traditions, culture and history of Austria with other interested persons and people of Arizona.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_5760.gif",
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/5760/austrian-association-of-southern-arizona"
+}

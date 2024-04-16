@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Steyr Motors North America",
+  "image": "",
+  "telephone": "850 784 7933",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "931 W. 18th Street",
+    "addressLocality": "Costa Mesa",
+    "addressRegion": "CA",
+    "postalCode": "92627",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "30.2037226",
+    "longitude": "-85.6831623"
+  },
+  "description": "Steyr Motors Betriebs GmbH develops and produces high-performance diesel engines with the highest power density and durability for heavy-duty vehicles, boats and generator sets while also providing engine-optimised software solutions with digital networking.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5258/steyr-motors-north-america"
+}

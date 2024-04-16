@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "GreenKat Productions",
+  "image": "",
+  "telephone": "9147207415",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "732 Amsterdam Ave, Apt. 5s",
+    "addressLocality": "New York",
+    "addressRegion": "NY",
+    "postalCode": "10025",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.7939650",
+    "longitude": "-73.9708140"
+  },
+  "description": "GreenKat Productions is an independent production company in New York founded in December 2002. With 8 years experience in the field of film and video production, GreenKat has established itself as an important contender in the visual art world.We provide production services for varying sizes of projects from start to finish. Since we have a great team of collaborators and our own equipment from camera to editing suit we can compete in the marketplace.We would like to offer our services to projects big and small and love meeting new people and help make their ideas a reality.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_81_7269.jpg",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/7269/greenkat-productions"
+}

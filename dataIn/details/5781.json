@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian-American Council, Minnesota Chapter  Prof.Gary Cohen Center for Austrian Studies",
+  "image": "",
+  "telephone": "612-624-9811",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "University of Minnesota, 314 Social Sciences Bldg. 267 19th Avenue, South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55455",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "44.9714907",
+    "longitude": "-93.2427183"
+  },
+  "description": "The University of Minnesota faculty, one of the nation's most distinguished, is a unique resource for the Center for Austrian Studies.",
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/5781/austrianamerican-council-minnesota-chapter-profgary-cohen-center-for-austrian-studies"
+}

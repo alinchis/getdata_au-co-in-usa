@@ -1,0 +1,16 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian American Club, Colorado",
+  "image": "",
+  "telephone": "719-382-7639",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "29 Circle Sea Road",
+    "addressLocality": "Fountain",
+    "addressRegion": "CO",
+    "postalCode": "80817",
+    "addressCountry": ""
+  },
+  "url": "https://www.usaustrians.com/austrian-companies-in-usa/5766/austrian-american-club-colorado"
+}

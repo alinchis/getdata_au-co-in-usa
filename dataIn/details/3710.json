@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian Mixed Chorus",
+  "image": "",
+  "telephone": "847 410 7895",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "8021 N Knox Ave “C”",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60076",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9035744",
+    "longitude": "-88.2128998"
+  },
+  "description": "The AUSTRIAN MIXED CHORUS OF CHICAGO (ÖSTERREICHISCHER GEMISCHTER CHOR)is an organization dedicated to keeping Austrian songs and music alive ",
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3710/austrian-mixed-chorus"
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Frequentis USA, Inc.",
+  "image": "",
+  "telephone": "301-657-8001",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9017 Red Branch Road, Suite 102",
+    "addressLocality": "Columbia",
+    "addressRegion": "MD",
+    "postalCode": "21045",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "39.2281900",
+    "longitude": "-76.8196500"
+  },
+  "description": "Frequentis safety-critical communication and information solutions leverage more than 75 years of experience showcasing true leadership in this market. With deep cross-industry experience in civil aviation, defense, public safety, maritime, and public transportation markets; the company has built upon its initial control center voice communications focus to develop deep expertise in these five areas of core competence",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4231/frequentis-usa-inc"
+}

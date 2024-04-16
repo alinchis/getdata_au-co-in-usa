@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Zither Club Chicago",
+  "image": "",
+  "telephone": "773-631-2854",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6173 N. McClellan",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60646",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9943480",
+    "longitude": "-87.7684980"
+  },
+  "description": "Here you will find information pertaining to the concert zither, an instrument with Alpine origins commonly associated with the German-speaking lands of Europe.",
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3740/zither-club-chicago"
+}

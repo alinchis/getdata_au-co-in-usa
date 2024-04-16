@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "American SignuMat Ltd.",
+  "image": "",
+  "telephone": "410-592-2907",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "115 Wight Ave, Unit 397",
+    "addressLocality": "Cockeysville",
+    "addressRegion": "MD",
+    "postalCode": "21030",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "39.5100970",
+    "longitude": "-76.5709720"
+  },
+  "description": "Signumat offers plastic tags with hot stamped inscriptions, Barcode inscriptions at customer's option and RFID labels for an efficient and easy application.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_4020.png",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4020/american-signumat-ltd"
+}

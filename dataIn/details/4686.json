@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Zumtobel Lighting, Inc.",
+  "image": "",
+  "telephone": "845-691-6262",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3300 Route 9W",
+    "addressLocality": "Highland",
+    "addressRegion": "NY",
+    "postalCode": "12528",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.6629970",
+    "longitude": "-73.9618270"
+  },
+  "description": "Zumtobel is internationally leading supplier of integral lighting solutions.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4686/zumtobel-lighting-inc"
+}

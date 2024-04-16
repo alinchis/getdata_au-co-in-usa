@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Vienna Restaurant & Historic Inn",
+  "image": "",
+  "telephone": "508 764-0700",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "14 South Street",
+    "addressLocality": "Southbridge",
+    "addressRegion": "MA",
+    "postalCode": "01550",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.0776109",
+    "longitude": "-72.0387592"
+  },
+  "description": "Classical  & Continental European, Austrian, German & Swiss Cuisine as well, Seafood and Steaks. The taste of Old World Cuisine with luxury Guest Suites centrally located at the crossroads of New England.Jonathan's Grand father John. J. Krach came to America in 1909 from Orzana, Austria hoping for a better life as a Black Smith and Carriage Builder. Soon after he arrived in America the automobile was to become the newest mode of transportation - he believed unlike most people, he would need to re-invent him self to stay alive. The Black smith & Carriage maker was to become extinct.He was later recruited by Henry Ford to work with him in Michigan - although He was not ready to leave his new home for the unknown in the Mid-west for a company not well known at the time.Jon J. Krach became one of the first VW Authorized factory service center in the US in Westfield, MA. Volkswagens were first exhibited and sold in the U.S. in 1949.Grandfather was married to Sophie Maria Swiathowski and soon settled in Springfield, MA in the Hungry Hill section of the City.  A City they loved until his early death when he was involved in a car accident as a pedestrian, how ironic - Just what had initially saved him in his new life as an US immigrant.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5686/vienna-restaurant-historic-inn"
+}

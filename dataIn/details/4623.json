@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "TTTech North America Inc.",
+  "image": "",
+  "telephone": "",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6190 Yarrow Drive",
+    "addressLocality": "Carlsbad",
+    "addressRegion": "CA",
+    "postalCode": "92011",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "33.1232650",
+    "longitude": "-117.2734280"
+  },
+  "description": "TTTech Computertechnik AG is the leading supplier of solutions in the field of time-triggered computer systems. The company's products, based on time-triggered protocols TTP, FlexRay, and TTEthernet, improve the reliability of data communication systems in transportation and automation industries. ",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_4623.jpg",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4623/tttech-north-america-inc"
+}

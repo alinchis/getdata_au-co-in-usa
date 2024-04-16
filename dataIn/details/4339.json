@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "KTM Sportmortorcycle USA, Inc.",
+  "image": "",
+  "telephone": "440-985-3553",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1119 Milan Avenue",
+    "addressLocality": "Amherst",
+    "addressRegion": "OH",
+    "postalCode": "44001",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.3990080",
+    "longitude": "-82.2468000"
+  },
+  "description": "Models, Accessories & Service - Street and offroad models. Powerparts, Powerwear.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4339/ktm-sportmortorcycle-usa-inc"
+}

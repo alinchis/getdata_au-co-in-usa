@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Center Austria",
+  "image": "",
+  "telephone": "504.280.3223",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2000 Lakeshore Drive",
+    "addressLocality": "New Orleans",
+    "addressRegion": "LA",
+    "postalCode": "70148",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "30.0324299",
+    "longitude": "-90.0700546"
+  },
+  "description": "The Austrian Marshall Plan Center for European Studies is a premier research center in the Gulf South focusing on the history, politics, and societies of Austria and Europe. It enables faculty, students, and knowledge transfer between New Orleans and Austria.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5424/center-austria"
+}

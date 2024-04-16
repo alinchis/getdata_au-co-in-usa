@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Kraus & Naimer, Inc.",
+  "image": "",
+  "telephone": "732-560-1240",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "760 New Brunswick Road",
+    "addressLocality": "Somerset",
+    "addressRegion": "NJ",
+    "postalCode": "08873",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.5269130",
+    "longitude": "-74.5322070"
+  },
+  "description": "Kraus and Naimer: switches for all purposes – cam switch, main and maintenance switches, disconnectors, Schalter, Nockenschalter, Hauptschalter, Trenner.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4021/kraus-naimer-inc"
+}

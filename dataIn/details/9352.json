@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Alluring View B&B",
+  "image": "",
+  "telephone": "828-733-2718",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7348 Joe Johnson Street",
+    "addressLocality": "Jonas Ridge",
+    "addressRegion": "NC",
+    "postalCode": "28641",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "35.958097",
+    "longitude": "-81.8997516"
+  },
+  "description": "Welcome to Alluring View B&B and cabins, located on a flat mountain top at 4200-ft elevation in the Blue Ridge Mountains of North Carolina.  Our accommodations welcome guest to these majestic mountains from our location at the edge of Linville Gorge, about 3 miles from the scenic Blue Ridge Parkway, and 8 miles from Grandfather Mountain, in the area of Jonas Ridge.  On a clear day, this rustic log cabin bed and breakfast has 100 mile views! There is a long range mountain view out of EVERY window, and your delicious full breakfast is prepared by a professional chef. We strive to provide comfortable lodging at affordable rates.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_9352.png",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/9352/alluring-view-bb"
+}

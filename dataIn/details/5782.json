@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian-American Council, New Hampshire",
+  "image": "",
+  "telephone": "603-778-4384",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Phillips Exeter Academy 20 Main St.",
+    "addressLocality": "Exeter",
+    "addressRegion": "NH",
+    "postalCode": "03833",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.9814050",
+    "longitude": "-70.9520170"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/5782/austrianamerican-council-new-hampshire"
+}

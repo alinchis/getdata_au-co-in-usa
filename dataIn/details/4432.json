@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Omicron Electronics Corp USA",
+  "image": "",
+  "telephone": "713-830-4660",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "12 Greenway Plaza, Suite 1510",
+    "addressLocality": "Houston",
+    "addressRegion": "TX",
+    "postalCode": "77046",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "29.7304975",
+    "longitude": "-95.4312210"
+  },
+  "description": "World Leader in Innovative Power System Testing Solutions.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4432/omicron-electronics-corp-usa"
+}

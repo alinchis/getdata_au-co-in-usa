@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Studio For Photography LLC",
+  "image": "",
+  "telephone": "646 541 2906",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15 Broad Street, Suite 1928",
+    "addressLocality": "New York",
+    "addressRegion": "NY",
+    "postalCode": "10005",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.7064181",
+    "longitude": "-74.0106248"
+  },
+  "description": "With 20 years of photography and motion experience in the food world, we are able to provide both those services and create unique work tailored to each client’s particular needs.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_81_7282.jpg",
+  "sameAs": [
+    "http://www.facebook.com/thomas.schauer"
+  ],
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/7282/studio-for-photography-llc"
+}

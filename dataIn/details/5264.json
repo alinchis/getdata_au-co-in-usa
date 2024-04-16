@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "RHI Canada Inc./Veitsch-Radex America Inc.",
+  "image": "",
+  "telephone": "905-633-4543",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4355 Fairview Street",
+    "addressLocality": "Burlington",
+    "addressRegion": "ON",
+    "postalCode": "L7L2A4",
+    "addressCountry": "CA"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "43.3684035",
+    "longitude": "-79.7689585"
+  },
+  "description": "RHI Magnesita has one of the world's most vertically integrated refractory industries, with its raw materials coming from its own mines.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5264/rhi-canada-incveitschradex-america-inc"
+}

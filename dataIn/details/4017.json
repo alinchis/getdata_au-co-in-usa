@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Amann Girrbach America Inc.",
+  "image": "",
+  "telephone": "877-960-4393",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "13900 S Lakes Dr, Ste D",
+    "addressLocality": "Charlotte",
+    "addressRegion": "NC",
+    "postalCode": "28273",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "28.4950420",
+    "longitude": "-82.5236330"
+  },
+  "description": "AmannGirrbach corporation is one of the leading companies in dental and dental laboratory technology.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_4017.jpg",
+  "sameAs": [
+    "https://www.facebook.com/pg/AmannGirrbachAmerica/about/?ref=page_internal",
+    "https://twitter.com/Amann_Girrbach",
+    "https://www.youtube.com/user/AmannGirrbachHQ"
+  ],
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4017/amann-girrbach-america-inc"
+}

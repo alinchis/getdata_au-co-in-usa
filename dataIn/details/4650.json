@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "VISTA-Hospitality International LLC",
+  "image": "",
+  "telephone": "212-204-0109",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "535 East 14th Street, Ste. 1 G",
+    "addressLocality": "New York City",
+    "addressRegion": "NY",
+    "postalCode": "10009-3013",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.7301583",
+    "longitude": "-73.9793962"
+  },
+  "description": "Executive Search and Recruitment for the. Hospitality Industry World-Wide. PHILOSOPHY Serving employers and candidates of our industry with honesty.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_81_4650.jpg",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4650/vistahospitality-international-llc"
+}

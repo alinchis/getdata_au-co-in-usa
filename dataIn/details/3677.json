@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian American Council, Louisiana",
+  "image": "",
+  "telephone": "504-885-8987",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5800 Virginia Place",
+    "addressLocality": "Metairie",
+    "addressRegion": "LA",
+    "postalCode": "70003",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "30.0272630",
+    "longitude": "-90.2136380"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3677/austrian-american-council-louisiana"
+}

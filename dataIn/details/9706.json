@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "American Institute of Musical Studies AIMS",
+  "image": "",
+  "telephone": "816-268-3657",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "28 East 69th Street",
+    "addressLocality": "Kansas City",
+    "addressRegion": "KS",
+    "postalCode": "64113",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0675987",
+    "longitude": "15.4373302"
+  },
+  "description": "Summer Programs in Austria for Voice, Piano & Orchestra. As the leading summer music program in Europe, AIMS is a one-of-a-kind experience. The program is designed to prepare you for a career as a professional musician.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_9706.jpg",
+  "sameAs": [
+    "https://www.facebook.com/AIMSinGraz"
+  ],
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/9706/american-institute-of-musical-studies-aims"
+}

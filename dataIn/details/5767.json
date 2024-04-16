@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian American Council, Connecticut",
+  "image": "",
+  "telephone": "203-438-9907",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "21 Point Lookout",
+    "addressLocality": "Milford",
+    "addressRegion": "CT",
+    "postalCode": "06460",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.2055590",
+    "longitude": "-73.0395380"
+  },
+  "url": "https://www.usaustrians.com/austrian-companies-in-usa/5767/austrian-american-council-connecticut"
+}

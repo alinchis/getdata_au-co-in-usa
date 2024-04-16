@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "AV Stumpfl US Corp.",
+  "image": "",
+  "telephone": "678-330-2980",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1055 Windward Ridge Pkwy #180",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9250323",
+    "longitude": "-87.9568803"
+  },
+  "description": "AV Stumpfl is an award-winning Austrian company that designs, manufactures and markets a range of high-performance mobile and installation projection",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_4069.png",
+  "sameAs": [
+    "https://www.facebook.com/AVStumpflUSA",
+    "https://twitter.com/AVStumpflUSA"
+  ],
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4069/av-stumpfl-us-corp"
+}

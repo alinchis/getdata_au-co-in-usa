@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Biomin America Inc.",
+  "image": "",
+  "telephone": "",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1842 Lockhill-Selma Rd., Suite 102",
+    "addressLocality": "San Antonio",
+    "addressRegion": "TX",
+    "postalCode": "78213",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "29.5367057",
+    "longitude": "-98.5225592"
+  },
+  "description": "Animal Nutrition & Health. Our purpose as a company is to create brighter lives for all.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_6126.jpg",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/6126/biomin-america-inc"
+}

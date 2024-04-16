@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "RoadRUNNER Magazine",
+  "image": "",
+  "telephone": "336-765-7780",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3601 Edgemoor Court",
+    "addressLocality": "Clemmons",
+    "addressRegion": "NC",
+    "postalCode": "27012",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "36.0011290",
+    "longitude": "-80.3935170"
+  },
+  "description": "RoadRUNNER magazine is dedicated to serving active motorcycle enthusiasts by providing them with a comprehensive resource of national and international.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5468/roadrunner-magazine"
+}

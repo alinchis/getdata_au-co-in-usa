@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Auxilia Accounting",
+  "image": "",
+  "telephone": "718-795-8984",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "637 5th Avenue",
+    "addressLocality": "Brooklyn",
+    "addressRegion": "NY",
+    "postalCode": "11215",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.6630592",
+    "longitude": "-73.9916396"
+  },
+  "description": "With AUXILIA accounting, I have an excellent business partner, who works side by side with me allowing me to finally focus again on the part of the business.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_4068.png",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4068/auxilia-accounting"
+}

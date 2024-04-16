@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "The Lotus Healing Center LLC. &<br>The Loft Guesthouse",
+  "image": "",
+  "telephone": "917 881 7554",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "319 Grand Street, AP.# 4",
+    "addressLocality": "New York City",
+    "addressRegion": "NY",
+    "postalCode": "10002",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.7170620",
+    "longitude": "-73.9909530"
+  },
+  "description": "Johanna Schwarzbeck is a graduate of the Swedish Institute of Massage Therapy in New York City with over fifteen years of professional experience in the broader field of massage therapy. She studied the Art of Ohashiatsu®, a Japanese bodywork technique, with Mr. Wataru Ohashi, founder and director of the Ohashiatsu® Institute in New York City. Johanna is also a Reiki two-atonement practitioner, which gives her an intuitive approach to understanding what people require in their sessions. She also works with reflexology, craniosacral therapy and visualization.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_107_7031.jpg",
+  "sameAs": [
+    "http://johannasan"
+  ],
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/7031/the-lotus-healing-center-llc-the-loft-guesthouse"
+}

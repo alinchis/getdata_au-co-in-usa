@@ -1,0 +1,16 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian-American Council, New York",
+  "image": "",
+  "telephone": "212-599-7575",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Olympic Tower, 645 Fifth Avenue, 7th floor",
+    "addressLocality": "New York",
+    "addressRegion": "NY",
+    "postalCode": "10022",
+    "addressCountry": ""
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/5786/austrianamerican-council-new-york"
+}

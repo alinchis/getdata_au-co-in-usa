@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Baur & Klein P.A.",
+  "image": "",
+  "telephone": "305-377-3561",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 N Biscayne Blvd. 21st Floor, New World Tower",
+    "addressLocality": "Miami",
+    "addressRegion": "FL",
+    "postalCode": "33132",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "25.7756219",
+    "longitude": "-80.1882208"
+  },
+  "description": "Baur & Klein, P.A. is a commercial law firm, in existence for 20 years, providing quality legal services to domestic and foreign clientele.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_5284.jpg",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5284/baur-klein-pa"
+}

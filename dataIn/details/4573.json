@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Steyr Arms, Inc.",
+  "image": "",
+  "telephone": "(205) 417-8644",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2530 Morgan Road",
+    "addressLocality": "Bessemer",
+    "addressRegion": "AL",
+    "postalCode": "35022",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "33.6043392",
+    "longitude": "-86.5905371"
+  },
+  "description": "Steyr Arms is a world-renowned firearms manufacturer.",
+  "sameAs": [
+    "https://www.facebook.com/SteyrArms"
+  ],
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4573/steyr-arms-inc"
+}

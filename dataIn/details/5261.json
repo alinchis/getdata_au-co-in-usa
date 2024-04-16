@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Tiger Drylac USA, Inc.",
+  "image": "",
+  "telephone": "909 930-9100",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1261 East Belmont St.",
+    "addressLocality": "Ontario",
+    "addressRegion": "CA",
+    "postalCode": "91761",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "34.0529760",
+    "longitude": "-117.6260770"
+  },
+  "description": "Discover more than 1,500 powder coating products with endless possibilities for surface finishing.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5261/tiger-drylac-usa-inc"
+}

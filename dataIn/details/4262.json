@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Greiner Bio-One North America Inc.",
+  "image": "",
+  "telephone": "704-261-7800",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4238 Capital Drive",
+    "addressLocality": "Monroe",
+    "addressRegion": "NC",
+    "postalCode": "28110",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "35.0194898",
+    "longitude": "-80.6306347"
+  },
+  "description": "Specializes in biotechnology, the diagnostic and pharmaceutical industries as well as in medical and in-vitro diagnostics.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4262/greiner-bioone-north-america-inc"
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Deutsche Sprachschule New York",
+  "image": "",
+  "telephone": "646 251 9952",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "In the United Nations International School",
+    "addressLocality": "New York",
+    "addressRegion": "NY",
+    "postalCode": "10010",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.7403452",
+    "longitude": "-73.8997437"
+  },
+  "description": "We offer classes for children from preschool through high school. For adults, we offer classes for beginners, intermediate and advanced students.",
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/9376/deutsche-sprachschule-new-york"
+}

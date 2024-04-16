@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "UNTHA Shredding Technology America, Inc.",
+  "image": "",
+  "telephone": "978-465-008",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10 Perry Way",
+    "addressLocality": "Newburyport",
+    "addressRegion": "MA",
+    "postalCode": "01950",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.8060860",
+    "longitude": "-70.8875201"
+  },
+  "description": "Advanced waste reduction and shredding technology is the key to solving a growing number of environmental issues, including hazardous waste disposal, diminishing landfill capacity, and effective resource recycling and reclamation.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5297/untha-shredding-technology-america-inc"
+}

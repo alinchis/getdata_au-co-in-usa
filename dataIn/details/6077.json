@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian Tourist Office",
+  "image": "https://www.usaustrians.com/assets/dynamic_image/sbs/photo_2225_57027.jpg",
+  "telephone": "212-575-7723",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "",
+    "addressLocality": "New York",
+    "addressRegion": "NY",
+    "postalCode": "10006",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.709329",
+    "longitude": "-74.0131196"
+  },
+  "description": "The official travel portal for Austria. Find out information about traveling to Austria, find out facts and figures and meets its people and their customs.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_6077.jpg",
+  "sameAs": [
+    "https://www.facebook.com/austriatravelinfo",
+    "https://www.instagram.com/visitaustria/",
+    "https://www.pinterest.com/austriatravel/",
+    "https://twitter.com/austriatravel",
+    "https://www.youtube.com/user/austria"
+  ],
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/6077/austrian-tourist-office"
+}

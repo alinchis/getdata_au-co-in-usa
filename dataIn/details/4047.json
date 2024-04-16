@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "AT&S Americas LLC",
+  "image": "",
+  "telephone": "408-573-1211",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1798 Technology Drive, Suite 130",
+    "addressLocality": "San Jose",
+    "addressRegion": "CA",
+    "postalCode": "95134",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "37.3965860",
+    "longitude": "-121.9286190"
+  },
+  "description": "AT&S is the European market leader and one of the globally leading manufacturers of high-value printed circuit boards and IC substrates. AT&S industrialises leading-edge technologies for its core business segments Mobile Devices, Automotive, Industrial, Medical and Advanced Packaging.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_4047.png",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4047/ats-americas-llc"
+}

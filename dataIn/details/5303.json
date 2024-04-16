@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "TecnoKal LLC",
+  "image": "",
+  "telephone": "480-704-3273",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "28150 N. Alma School PKWY, Ste 103/155",
+    "addressLocality": "Scottsdale",
+    "addressRegion": "AZ",
+    "postalCode": "85262",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "33.7415270",
+    "longitude": "-111.8428977"
+  },
+  "description": "Mr. Plank has spent almost 20 years working for international companies in management positions both in Europe and the USA,. Since 2004, he is president of TecnoKal, a consulting firm providing services in high tech and international sales & marketing, . His main expertise is in marketing and selling technologies and services to Fortune 100 companies and he is considered one of the leading experts in high-tech plastics manufacturing. As such, he has been instrumental in implementing breakthrough technologies and manufacturing optimization strategies in the medical, pharmaceutical, cosmetic, automotive and consumer products arenas. Latest services include biodegradable packaging solutions from renewable resources. He is a renowned international speaker and moderator of the technology conference Molding 2004 - 2008.He holds a Masters degree in Plastics Technologies from University Leoben, Austria, is a Lean Six Sigma Black Belt and speaks three languages - English, German and Italian.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_81_5303.jpg",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5303/tecnokal-llc"
+}

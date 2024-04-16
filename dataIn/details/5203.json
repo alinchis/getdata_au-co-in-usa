@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Eglo USA",
+  "image": "",
+  "telephone": "305-597-8856",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3560 NW 72nd Ave.",
+    "addressLocality": "Miami",
+    "addressRegion": "FL",
+    "postalCode": "33122",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "25.8079885",
+    "longitude": "-80.3132857"
+  },
+  "description": "EGLO - decorative lamps and professional lighting systems, decorative light fixtures, beautiful indoor lighting and outdoor lighting.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5203/eglo-usa"
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Seefried Properties",
+  "image": "",
+  "telephone": "404-233-0204",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4200 Northside Parkway Building 1, Suite 300",
+    "addressLocality": "Atlanta",
+    "addressRegion": "GA",
+    "postalCode": "30327",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "33.8634180",
+    "longitude": "-84.4457900"
+  },
+  "description": "Seefried Properties specializes in developing and managing America's premier business parks. Whether you are looking for more space, more functional space, or a build-to-suit facility, Seefried can partner with you to meet your industrial real estate needs.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4538/seefried-properties"
+}

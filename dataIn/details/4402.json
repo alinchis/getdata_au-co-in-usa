@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Miba HydraMechanica Corp.",
+  "image": "",
+  "telephone": "586-939-0620",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6625 Cobb Drive",
+    "addressLocality": "Sterling Heights",
+    "addressRegion": "MI",
+    "postalCode": "48312",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.5577490",
+    "longitude": "-83.0409340"
+  },
+  "description": "Miba is a leading global provider of high-performance friction materials and innovative solutions for industrial applications. Founded in 1927 in Austria, the company has since grown into a multinational corporation with more than 8,000 employees and operations in Europe, Asia, and the Americas.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4402/miba-hydramechanica-corp"
+}

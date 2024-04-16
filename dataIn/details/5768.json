@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian-American Society, Hockessin, Delaware",
+  "image": "",
+  "telephone": "410-392-2510",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "303 Valleywood Road",
+    "addressLocality": "Hockessin",
+    "addressRegion": "DE",
+    "postalCode": "19707",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "39.7715855",
+    "longitude": "-75.6964398"
+  },
+  "url": "https://www.usaustrians.com/austrian-companies-in-usa/5768/austrianamerican-society-hockessin-delaware"
+}

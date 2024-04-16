@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian Donau Club of New Britain",
+  "image": "",
+  "telephone": "860-223-9401",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "545 Arch Street",
+    "addressLocality": "New Britain",
+    "addressRegion": "CT",
+    "postalCode": "06051",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.6581620",
+    "longitude": "-72.7840780"
+  },
+  "description": "The history of the Austrian Donau Club is inextricably linked with the history of the city of New Britain.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_3708.jpg",
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3708/austrian-donau-club-of-new-britain"
+}

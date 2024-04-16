@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "AMAG USA Corporation",
+  "image": "",
+  "telephone": "201-962-7105",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4101 Walnut Creek Ct.,",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "postalCode": "76137",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "33.0395850",
+    "longitude": "-97.0513750"
+  },
+  "description": "AMAG is leading manufacturer of aluminium semis and casthouse products for the processing industry.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_4016.jpg",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4016/amag-usa-corporation"
+}

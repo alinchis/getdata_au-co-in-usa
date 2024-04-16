@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian National Bank",
+  "image": "",
+  "telephone": "212-888-2334",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "450 Park Avenue, Ste 1202",
+    "addressLocality": "New York",
+    "addressRegion": "NY",
+    "postalCode": "10022",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.7614976",
+    "longitude": "-73.9710052"
+  },
+  "description": "The Oesterreichische Nationalbank (OeNB) is the central bank of the Republic of Austria.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_6079.png",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/6079/austrian-national-bank"
+}

@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian Cultural Forum of Washington",
+  "image": "",
+  "telephone": "202-895-6714",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3524 International Court",
+    "addressLocality": "Washington",
+    "addressRegion": "DC",
+    "postalCode": "20008",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "38.9442216",
+    "longitude": "-77.0687898"
+  },
+  "description": "The Austrian Cultural Forum Washington was created with the objective of serving as a focus of cultural exchange between Austrians/Europeans and Americans. It is an agency of the Austrian Ministry for Europe, Integration and Foreign Affairs and is integrated into the Austrian Embassy in Washington, D.C",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_3706.gif",
+  "sameAs": [
+    "https://www.facebook.com/acfdc",
+    "https://www.instagram.com/acfwashington/",
+    "https://twitter.com/acfwashington"
+  ],
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3706/austrian-cultural-forum-of-washington"
+}

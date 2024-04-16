@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Burgenländische Gemeinschaft, New Jersey",
+  "image": "",
+  "telephone": "973-772-2361",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "55 Vreeland Avenue",
+    "addressLocality": "Clifton",
+    "addressRegion": "NJ",
+    "postalCode": "07011",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.8840490",
+    "longitude": "-74.1518060"
+  },
+  "description": "The Burgenländische Gemeinschaft is an association that was established in 1956 with the objective to build a global community of Burgenländers, notably of Burgenländers who emigrated to other European countries, to the U.S.A. or other overseas countries, and to foster their attachment to their homeland.",
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3735/burgenländische-gemeinschaft-new-jersey"
+}

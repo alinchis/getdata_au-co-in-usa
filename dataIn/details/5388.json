@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "GTV Almrausch",
+  "image": "",
+  "telephone": "215-606-8568",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4 Moredun Place",
+    "addressLocality": "Philadelphia",
+    "addressRegion": "PA",
+    "postalCode": "19115",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.0928669",
+    "longitude": "-75.0647373"
+  },
+  "description": "Based in Philadelphia, the G.T.V. Almrausch is one of the oldest Schuhplattler Vereine in North America.",
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/5388/gtv-almrausch"
+}

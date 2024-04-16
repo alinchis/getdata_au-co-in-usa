@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Lerner Greenberg Stemer LLP",
+  "image": "",
+  "telephone": "954-925-1100",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2445 Hollywood Blvd.",
+    "addressLocality": "Hollywood",
+    "addressRegion": "FL",
+    "postalCode": "33020",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "26.0113631",
+    "longitude": "-80.1563266"
+  },
+  "description": "We focus on protecting, enforcing, and monetizing your Intellectual Property Rights.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/5292/lerner-greenberg-stemer-llp"
+}

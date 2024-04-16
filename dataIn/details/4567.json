@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Sprecher + Schuh Headquarters",
+  "image": "",
+  "telephone": "281-442-9000",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15910 International Plaza Drive",
+    "addressLocality": "Houston",
+    "addressRegion": "TX",
+    "postalCode": "77032",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "29.9489413",
+    "longitude": "-95.3256331"
+  },
+  "description": "Sprecher + Schuh offers a wide range of low-voltage industrial control products, including contactors, a variety of relays, starters, push buttons, switches, terminals and controllers. Our products are crafted with precision and tested rigorously for performance — far exceeding industry standards. We constantly seek innovative ways to provide solutions for our global customers. Sprecher + Schuh is the industrial control manufacturer of choice if you seek quality, reliability, and a name you can trust.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_81_4567.gif",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4567/sprecher-schuh-headquarters"
+}

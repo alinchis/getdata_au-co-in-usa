@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Scottygroup of the Americas",
+  "image": "",
+  "telephone": "404-663-9934",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7094 Peachtree Industrial Blvd., Suite 301",
+    "addressLocality": "Norcross",
+    "addressRegion": "GA",
+    "postalCode": "30071",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "33.9307380",
+    "longitude": "-84.2622310"
+  },
+  "description": "Provides complete video communications and specializes in applications involving remote locations at sea or in the field.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4533/scottygroup-of-the-americas"
+}

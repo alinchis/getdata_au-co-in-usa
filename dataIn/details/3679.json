@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian American Council, Massachusetts Chapter",
+  "image": "",
+  "telephone": "978 579 2191",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "34 Cutting Cross Way",
+    "addressLocality": "Wayland",
+    "addressRegion": "MA",
+    "postalCode": "01778",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.3684760",
+    "longitude": "-71.4319490"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3679/austrian-american-council-massachusetts-chapter"
+}

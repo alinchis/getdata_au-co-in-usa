@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Andlinger & Company Inc.",
+  "image": "",
+  "telephone": "914-332-4900",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "520 White Plains Road, Suite 500",
+    "addressLocality": "Tarrytown",
+    "addressRegion": "NY",
+    "postalCode": "10591",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.0662839",
+    "longitude": "-73.8625218"
+  },
+  "description": "A private investment and management firm with offices in the United States, Austria, and Belgium. Founded by Gerhard Andlinger.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_4024.png",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4024/andlinger-company-inc"
+}

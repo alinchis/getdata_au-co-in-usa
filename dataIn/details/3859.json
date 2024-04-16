@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian Press & Information Service, Washington D.C.",
+  "image": "",
+  "telephone": "202-895-6766",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3524 International Court, NW",
+    "addressLocality": "Washington",
+    "addressRegion": "DC",
+    "postalCode": "20008",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "38.9453000",
+    "longitude": "-77.0686630"
+  },
+  "description": "Articles on Transatlantic Relations, Views on the Austro-American partnership; Austria in the US, and Americans in Austria.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_3859.png",
+  "sameAs": [
+    "https://www.facebook.com/austrianembassy",
+    "https://www.instagram.com/austriainusa/",
+    "https://www.pinterest.com/austriainusa/",
+    "https://twitter.com/AustriainUSA"
+  ],
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3859/austrian-press-information-service-washington-dc"
+}

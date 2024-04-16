@@ -1,0 +1,21 @@
+{
+  "name": "getdata_au-co-in-usa",
+  "version": "1.0.0",
+  "description": "webscraper to get data from a html page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "scraper",
+    "js",
+    "javascript"
+  ],
+  "author": "Alin CHIS",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "jsdom": "^24.0.0"
+  }
+}

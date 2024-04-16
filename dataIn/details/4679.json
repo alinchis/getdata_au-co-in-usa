@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "WolfVision, Inc. Burlingame",
+  "image": "",
+  "telephone": "650-648-0002",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1601 Bayshore Highway, Suite 302",
+    "addressLocality": "Burlingame",
+    "addressRegion": "CA",
+    "postalCode": "94010",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "37.5991310",
+    "longitude": "-122.3682810"
+  },
+  "description": "The Leading Manufacturer of High End Visualizers.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_81_4679.jpg",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4679/wolfvision-inc-burlingame"
+}

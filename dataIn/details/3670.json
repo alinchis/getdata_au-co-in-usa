@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Austrian American Council (AAC) Head Office",
+  "image": "",
+  "telephone": "818-507-5904",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2701 Forrester Drive",
+    "addressLocality": "Los Angeles",
+    "addressRegion": "CA",
+    "postalCode": "90064",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "34.043989",
+    "longitude": "-118.404662"
+  },
+  "description": "The Austrian-American Council of North America is a not-for-profit organization which fosters good will and better understanding between the people of Austria and the United States. It sponsors and co-sponsors many Austrian cultural events such as concerts, recitals and exhibits, Austrian artists and the arts, and supports many humanitarian causes world-wide.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/bus_logo_3670.jpg",
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3670/austrian-american-council-aac-head-office"
+}

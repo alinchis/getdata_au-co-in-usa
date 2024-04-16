@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "CapCat Music INC",
+  "image": "",
+  "telephone": "707-280-1270",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "",
+    "addressLocality": "Nashville",
+    "addressRegion": "TN",
+    "postalCode": "",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "38.1014225",
+    "longitude": "-122.2547237"
+  },
+  "description": "Train the Musical Mind. Austrian Ariane Cap (‘Ari’) is a bassist, pianist, educator, author, blogger, writer, and composer living in Nashville. Ariane is an online teaching personality with a thriving blog, bass courses, and webinars that draw a loyal following.",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/7414/capcat-music-inc"
+}

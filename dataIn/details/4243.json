@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Geiger of Austria, Inc.",
+  "image": "",
+  "telephone": "802-388-3156",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "38 Pond Lane",
+    "addressLocality": "Middlebury",
+    "addressRegion": "VT",
+    "postalCode": "05753",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "44.0357060",
+    "longitude": "-73.1719590"
+  },
+  "description": "GEIGER “NaturWalk” says it all! Our knitted fabrics are cunningly felted honoring traditional methods of the alpine region. This highly innovative process - developed by GEIGER's own technicians – uses only warm water, heat and motion and eliminates the need for harmful chemicals. This assures that our land, air and water stays unpolluted. Furthermore this technique saves 90% of the energy and resources used in conventionalmethods.",
+  "logo": "https://www.usaustrians.com/assets/dynamic_image/bus_logo/cae_logo_81_4243.jpg",
+  "url": "https://www.usaustrians.com/Austrian-enterprises-inUSA/4243/geiger-of-austria-inc"
+}
