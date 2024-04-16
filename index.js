@@ -6,6 +6,7 @@ const fs = require("fs");
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 const axios = require("axios");
+const { parse } = require("json2csv");
 
 // /////////////////////////////////////////////////////////////////////////////////////////////
 // Paths
@@ -15,24 +16,52 @@ const exportPathJson = "dataOut/au_companies.json";
 const exportPathCsv = "dataOut/au_companies.csv";
 
 // /////////////////////////////////////////////////////////////////////////////////////////////
+// Constants
+
+// Flatten JSON and configure fields for CSV
+const fields = [
+  "companyId",
+  "companyName",
+  "companyUrl",
+  "@context",
+  "@type",
+  "name",
+  "image",
+  "telephone",
+  "address.@type",
+  "address.streetAddress",
+  "address.addressLocality",
+  "address.addressRegion",
+  "address.postalCode",
+  "address.addressCountry",
+  "geo.@type",
+  "geo.latitude",
+  "geo.longitude",
+  "description",
+  "logo",
+  "sameAs",
+  "url",
+];
+
+// /////////////////////////////////////////////////////////////////////////////////////////////
 // METHODS
 
 // Function to convert data to CSV format
 function arrayToCSV(objArray) {
-  const array = [Object.keys(objArray[0])].concat(objArray);
-  return array
-    .map((it) => {
-      return Object.values(it)
-        .map(
-          (field) => `"${field.toString().replace(/"/g, '""')}"` // Handle quotes in data
-        )
-        .join(",");
-    })
-    .join("\r\n");
+  const opts = { fields };
+
+  try {
+    const csv = parse(objArray, opts);
+
+    return csv;
+  } catch (err) {
+    console.error("Error converting JSON to CSV", err);
+  }
 }
 
 // Delay function
 function delay(ms) {
+  console.log(`Delaying for ${ms} milliseconds...\n`);
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
@@ -41,19 +70,18 @@ async function fetchStructuredData(url) {
   try {
     const response = await axios.get(url);
     const dom = new JSDOM(response.data);
-    const scripts = dom.window.document.querySelectorAll(
+    const scriptContent = dom.window.document.querySelector(
       'script[type="application/ld+json"]'
-    );
+    ).textContent;
+
+    // Replace new line characters with the escaped new line
+    const cleanedScriptContent = scriptContent.trim();
 
     // Assuming there's only one <script type="application/ld+json"> tag per page
-    if (scripts.length > 0) {
-      const jsonData = JSON.parse(scripts[0].textContent);
-      return jsonData;
-    }
-
-    return null;
+    // const jsonData = JSON.parse(cleanedScriptContent);
+    return cleanedScriptContent;
   } catch (error) {
-    console.error("Error fetching or parsing structured data:", error);
+    console.error("\nError fetching or parsing structured data:\n", error);
     return null;
   }
 }
@@ -66,9 +94,19 @@ async function processUrl(id, url) {
   // Check if the file exists
   if (fs.existsSync(exportFilePath)) {
     console.log("\t> File exists, reading from path...");
-    const data = JSON.parse(fs.readFileSync(exportFilePath, "utf8"));
-    // Wait a bit even if cached to mimic network delay and avoid quick re-runs
-    await delay(500);
+    const rawData = fs.readFileSync(exportFilePath, "utf8");
+    const cleanedData = rawData
+      .replace(/\\n\s+/gm, "")
+      .replace(/\\n\\t/gm, "")
+      .replace(/\\t/gm, "")
+      .replace(/\\n\\n/gm, "s")
+      .replace(/\\"/gm, '"')
+      .replace(/"{/gm, "{")
+      .replace(/}"/gm, "}");
+
+    // console.log(cleanedData);
+    const data = JSON.parse(cleanedData);
+
     return data;
   } else {
     console.log("\t> Fetching new data from URL...");
@@ -83,9 +121,10 @@ async function processUrl(id, url) {
       console.log("\t> No data received for URL:", url);
     }
 
-    // Delay for 1/2 second after fetching data
-    await delay(500);
-    return data;
+    // parse data into JSON
+    // return JSON.parse(data);
+    await delay(1000);
+    return null;
   }
 }
 
@@ -101,36 +140,55 @@ async function main() {
   const dom = new JSDOM(htmlContent);
   const document = dom.window.document;
 
-  // Extract data from each .category_list_bus_item
-  const companyPromises = Array.from(
+  // Initialize an array to hold the company data
+  const companyData = [];
+
+  // Get all category list bus items
+  const items = Array.from(
     document.querySelectorAll(".category_list_bus_item")
-  ).map(async (item) => {
+  );
+
+  // Process each item sequentially
+  for (const item of items) {
     const companyId = item.getAttribute("id");
     const companyName = item.querySelector("h2 a").textContent.trim();
     const companyUrl = item.querySelector("h2 a").href;
 
-    // get details
-    // Assuming processUrl fetches additional details asynchronously
+    // Get details
+    console.log(`Processing company ID: ${companyId}`); // Log which company is being processed
     const companyDetails = await processUrl(companyId, companyUrl);
 
-    return {
-      companyId,
-      companyName,
-      companyUrl,
-      ...companyDetails, // processUrl returns an object with address, phone, description
-    };
-  });
+    // Delay for 1 second after each request
+    // await delay(1000);
 
-  // Wait for all promises to resolve
-  const companyData = await Promise.all(companyPromises);
+    // If there are no details, return the original data
+    if (companyDetails === null) {
+      companyData.push({
+        companyId,
+        companyName,
+        companyUrl,
+      });
+    } else {
+      // Add additional details
+      companyData.push({
+        companyId,
+        companyName,
+        companyUrl,
+        ...companyDetails, // processUrl returns an object with address, phone, description
+      });
+    }
+  }
 
   // Print extracted data
   console.log(`\nDONE:Extracted ${companyData.length} companies.`);
 
   // Write data to JSON file
   fs.writeFileSync(exportPathJson, JSON.stringify(companyData, null, 2));
+  console.log("\t> JSON file has been saved.");
+
   // Write data to CSV file
-  //   fs.writeFileSync(exportPathCsv, arrayToCSV(companyData));
+  fs.writeFileSync(exportPathCsv, arrayToCSV(companyData));
+  console.log("\t> CSV file has been saved.");
 }
 
 // /////////////////////////////////////////////////////////////////////////////////////////////

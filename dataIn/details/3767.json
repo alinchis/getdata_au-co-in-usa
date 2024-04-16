@@ -1,1 +1,21 @@
-null
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Jolly Burgenländer Club",
+  "image": "",
+  "telephone": "708-636-3074",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10916 S Tripp Avenue",
+    "addressLocality": "Oak Lawn",
+    "addressRegion": "IL",
+    "postalCode": "60543",
+    "addressCountry": ""
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.6940950",
+    "longitude": "-87.7261620"
+  },
+  "url": "https://www.usaustrians.com/Institutes-Organizations-Austrians-in-USA/3767/jolly-burgenländer-club"
+}
